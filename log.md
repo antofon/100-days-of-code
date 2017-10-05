@@ -8,3 +8,13 @@
 
 **Link(s) to work**
 1. [ThreeCupShuffle](https://antofon.github.io/threecupshuffle/)
+
+
+### Day 2: October 5, Thursday
+
+**Today's Progress**: Significant progress made today! I was able to add my red cups (created by me), buttons under the cups (to select choices) a 'show rules' button, and a media query upon screen resizing (will add more as time progresses).
+
+**Thoughts** I had the hardest time with combining the cups and the buttons under the cups to move together. I tried positioning first but that didn't work too well. However, I succeeded in the end :) thankfully I had my HTML/CSS book on hand as reference. Turns out I ended up using positioning for the 'show rules'. I was happy about that because I don't really use positioning. Still moving forward!
+
+**Link(s) to work**
+1. [ThreeCupShuffle](https://antofon.github.io/threecupshuffle/)
