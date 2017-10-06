@@ -18,3 +18,13 @@
 
 **Link(s) to work**
 1. [ThreeCupShuffle](https://antofon.github.io/threecupshuffle/)
+
+
+### Day 3: October 6, Friday
+
+**Today's Progress**: Built upon media queries from yesterday. Starting to understand and appreciate mobile-first approach even more. Also began the process of interactions occurring upon click for the cup's buttons.
+
+**Thoughts** I loved diving deeper into responsive web design! It's such a great feeling to know that I am creating a better user experience for my audience, as well as adapting to the mobile-first world. Not sure if I want to make my media queries and responsiveness to device sizes "perfect", or just move on to the JS. I have an idea of how to make the ball appear and randomize its placement, which is exciting. Overall, pleased with my progress today.
+
+**Link(s) to work**
+1. [ThreeCupShuffle](https://antofon.github.io/threecupshuffle/)
