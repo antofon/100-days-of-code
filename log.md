@@ -28,3 +28,13 @@
 
 **Link(s) to work**
 1. [ThreeCupShuffle](https://antofon.github.io/threecupshuffle/)
+
+
+### Day 4: October 7, Saturday
+
+**Today's Progress**: Able to have metal ball appear if user guesses the correct position. Also randomized position number to have the user truly guess which cup is holding the metal ball. Refined a  media query a bit more and added another one (centered div element on 2nd row when the width of the top was 50% for each element).
+
+**Thoughts** Pretty significant progress made today. I had an idea of how to randomize the position of the cups from a Treehouse tutorial I saw a couple of weeks ago. That and the W3Schools website. Wrote out my logic on a piece of paper and implemented it well. However, starting to have an issue with certain conditionals now. Need to backtrack and figure out why one button doesn't work, as well as the message showing for the other cup and not above the button I initially clicked. I'll solve it.
+
+**Link(s) to work**
+1. [ThreeCupShuffle](https://antofon.github.io/threecupshuffle/)
