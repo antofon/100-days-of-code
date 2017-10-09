@@ -38,3 +38,13 @@
 
 **Link(s) to work**
 1. [ThreeCupShuffle](https://antofon.github.io/threecupshuffle/)
+
+
+### Day 5: October 8, Sunday
+
+**Today's Progress**: Rough coding session today...still debugging my code. Tried switch statements, loops to ensure that code runs while user is on their first (and only) guess for the ball's position, etc. After a few hours I believe that I understand why I'm having trouble.
+
+**Thoughts** I learned today that physical progress doesn't always need to be made. A lot of mental progress was made, and I'm happy with that. Today I learned a great deal of being creative and testing and running my code. I even used pen and paper to map out my ideas. I have hypothesis about why my code isn't running how I intended. More on that tomorrow.
+
+**Link(s) to work**
+1. [ThreeCupShuffle](https://antofon.github.io/threecupshuffle/)
