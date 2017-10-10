@@ -48,3 +48,13 @@
 
 **Link(s) to work**
 1. [ThreeCupShuffle](https://antofon.github.io/threecupshuffle/)
+
+
+### Day 6: October 9, Monday
+
+**Today's Progress**: I FINALLY FIGURED IT OUT!!!!! This is honestly the first project I fully completed that looks good on some mobile devices (android phone, iPod Touch). The initial start to this day was a ton of thinking and walking through the code before really typing anything out. But I accomplished it, and am ready to move on to the next project. Or add some more to this project? Who knows? We'll find out tomorrow.
+
+**Thoughts** I learned not to give up! Keep trying, keep testing, keep thinking. Don't walk away permanently from a project. Read Docs, USE GOOGLE search, explore stackoverflow.com, EVERYTHING. There are many solutions to the problem you are trying to solve, you just need to discover "your" solution.
+
+**Link(s) to work**
+1. [ThreeCupShuffle](https://antofon.github.io/threecupshuffle/)
