@@ -58,3 +58,13 @@
 
 **Link(s) to work**
 1. [ThreeCupShuffle](https://antofon.github.io/threecupshuffle/)
+
+
+### Day 7: October 10, Tuesday
+
+**Today's Progress**: Currently brainstorming for the next project, so I decided to work on the Basic JavaScript section of freeCodeCamp. Most likely will begin project tomorrow.
+
+**Thoughts** I didn't want to rush into a new project right away before knowing what kind of skills I would need/gain. But I definitely don't want to ponder too long. Sometimes I need to remind myself to just DO.
+
+**Link(s) to work**
+1. [freeCodeCamp site](https://www.freecodecamp.org/)
