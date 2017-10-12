@@ -77,4 +77,14 @@
 **Thoughts** A significant amount of time was spent prior to coding to even come up with this idea. I should try to plan in advance or always be thinking about what's next, so I'm not in temporary limbo waiting for an idea to spark. I'm excited for this project though, going to learn a lot for sure.
 
 **Link(s) to work**
-1. [ImagineThat](https://antofon.github.io/imaginethat/)
+1. [ImagineThat!](https://antofon.github.io/imaginethat/)
+
+
+### Day 9: October 12, Thursday
+
+**Today's Progress**: More progress with constructing the buttons, 'Colors' and 'Sizes' tools for my painting/drawing web project. Didn't learn too much about Canvas as I was working on the other elements. That's okay though, I want to make sure those are taken care of before I jump into any unfamiliar tasks. Oh yea, I'm using SASS (SCSS version) for this project! Wanted to test it out and see how powerful it can be. So far, I'm impressed by how much quicker and maintainable my code is.
+
+**Thoughts** Enjoying my pacing of the project so far. I've noticed that I'm more intentional when it comes to first structuring my HTML with groupings and semantic tags (nav, header, etc.) then going over to SCSS to style it up. Its been a bunch of fun so far learning SCSS too. Mixins are extremely helpful.
+
+**Link(s) to work**
+1. [ImagineThat!](https://antofon.github.io/imaginethat/)
