@@ -68,3 +68,13 @@
 
 **Link(s) to work**
 1. [freeCodeCamp site](https://www.freecodecamp.org/)
+
+
+### Day 8: October 11, Wednesday
+
+**Today's Progress**: Started my paint/drawing web project. Have the basic structure down and started adding some CSS. Going to explore Canvas this time around, so that should be fun.
+
+**Thoughts** A significant amount of time was spent prior to coding to even come up with this idea. I should try to plan in advance or always be thinking about what's next, so I'm not in temporary limbo waiting for an idea to spark. I'm excited for this project though, going to learn a lot for sure.
+
+**Link(s) to work**
+1. [ImagineThat](https://antofon.github.io/imaginethat/)
