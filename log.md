@@ -88,3 +88,13 @@
 
 **Link(s) to work**
 1. [ImagineThat!](https://antofon.github.io/imaginethat/)
+
+
+### Day 10: October 13, Friday
+
+**Today's Progress**: Added size values for Size Tool and started working with Canvas and its drawing capabilities.
+
+**Thoughts** Canvas is pretty tricky when it comes to drawing and even clearing itself. I found that the draw information is still presently if you go again to click in the area. I'm enjoying it though because I am seeing actual progress. I will continue to learn more about it and JS in general along the way.
+
+**Link(s) to work**
+1. [ImagineThat!](https://antofon.github.io/imaginethat/)
