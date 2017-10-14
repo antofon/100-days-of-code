@@ -98,3 +98,13 @@
 
 **Link(s) to work**
 1. [ImagineThat!](https://antofon.github.io/imaginethat/)
+
+
+### Day 11: October 14, Saturday
+
+**Today's Progress**: Worked on Portfolio, mainly Contact Page
+
+**Thoughts** Decided to take a break from my drawing application to focus on something a bit more urgent - my portfolio website. Being that I'm learning SASS (SCSS), I thought it would be good to practice it here. The 'import' capability is awesome! It allows me to import chunks of CSS in one line, awesome. Going to keep working on this for some time until its complete. My most recent portfolio website was using Bootstrap 4. I decided to start over and actually use CSS (with the exception of SASS) so I learn the fundamentals first.
+
+**Link(s) to work**
+1. [Portfolio Website](https://antofon.github.io/portfolio-main/)
