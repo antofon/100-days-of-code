@@ -108,3 +108,13 @@
 
 **Link(s) to work**
 1. [Portfolio Website](https://antofon.github.io/portfolio-main/)
+
+
+### Day 12: October 15, Sunday
+
+**Today's Progress**: Worked on About Page for Portfolio Website
+
+**Thoughts** Continuing on with my Portfolio website. So far so good, the About Page is coming along well. Once that is complete, I'll move on to the 'Home' and 'Portfolio' pages
+
+**Link(s) to work**
+1. [Portfolio Website](https://antofon.github.io/portfolio-main/)
