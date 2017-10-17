@@ -118,3 +118,13 @@
 
 **Link(s) to work**
 1. [Portfolio Website](https://antofon.github.io/portfolio-main/)
+
+
+### Day 13: October 16, Monday
+
+**Today's Progress**: Added CSS Reset to code, had to redo several element's alignments, font-sizes, etc. Went back to work on header and footer. Standardizing that so I can import the templated code into other stylesheets.
+
+**Thoughts** I wish I had added a Reset in the beginning, the normalize.css file from the cdnjs.com website did not work how I intended. Maybe I don't understand the purpose of the file. In any event, it is a bit frustrating going back and having to alter code to my liking after the reset. Still, progress has been made.
+
+**Link(s) to work**
+1. [Portfolio Website](https://antofon.github.io/portfolio-main/)
