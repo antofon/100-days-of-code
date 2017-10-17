@@ -128,3 +128,13 @@
 
 **Link(s) to work**
 1. [Portfolio Website](https://antofon.github.io/portfolio-main/)
+
+
+### Day 14: October 17, Tuesday
+
+**Today's Progress**: Working more with media queries, made 'About' page slightly more mobile-friendly.
+
+**Thoughts** For some reason I'm having a lot of trouble with media queries. I think its my use of SASS and importing the CSS with the queries into another stylesheet and working from there. I'm thinking I should just format the alignment and placement of the content and then alter the font and other things afterwards. I don't want to stay here much longer but I want it to work across a wide range of devices.
+
+**Link(s) to work**
+1. [Portfolio Website](https://antofon.github.io/portfolio-main/)
