@@ -138,3 +138,13 @@
 
 **Link(s) to work**
 1. [Portfolio Website](https://antofon.github.io/portfolio-main/)
+
+
+### Day 15: October 18, Wednesday
+
+**Today's Progress**: Worked on 'About' page layout, went back to 'Contact' page to try to make responsive.
+
+**Thoughts** Ugh, SASS is starting to confuse me when trying to make my website responsive. Its the nestedness, at first I understood it, but then I wanted to nest media queries inside my SCSS rules and now I'm just confused. Initially I was working on the 'About' page layout. But I went back to 'Contact' because that page was complete. Now working with responsive design, it's getting more confusing.
+
+**Link(s) to work**
+1. [Portfolio Website](https://antofon.github.io/portfolio-main/)
