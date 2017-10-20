@@ -148,3 +148,13 @@
 
 **Link(s) to work**
 1. [Portfolio Website](https://antofon.github.io/portfolio-main/)
+
+
+### Day 16: October 19, Thursday
+
+**Today's Progress**: Worked on Media Queries and understanding responsive web design. Created one webpage
+
+**Thoughts** Made a mockup site to reinforce my understanding of media queries. Trying to implement a nice grid layout and go from there. Nothing fancy, just want to really understand mobile first design. Unfortunately, I didn't create a GitHub repo as I didn't think the webpage was worth saving. This is just an exercise.
+
+**Link(s) to work**
+1. [None]
