@@ -158,3 +158,13 @@
 
 **Link(s) to work**
 1. [None]
+
+
+### Day 17: October 20, Friday
+
+**Today's Progress**: FCC JavaScript tutorials: if, else if, else statements and switch statements.
+
+**Thoughts** Light day today but at least wanted to make more FCC progress toward my Front End Development certificate
+
+**Link(s) to work**
+1. [freeCodeCamp site](https://www.freecodecamp.org/)
