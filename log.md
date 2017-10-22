@@ -168,3 +168,13 @@
 
 **Link(s) to work**
 1. [freeCodeCamp site](https://www.freecodecamp.org/)
+
+
+### Day 18: October 21, Saturday
+
+**Today's Progress**: More FCC JavaScript tutorials (objects, loops, etc.)
+
+**Thoughts** Even more JS progress. Hectic day today so I just wanted to get some more FCC challenges in. Starting to like these a bit more because I'm thinking more than usual. I'll need some scratch paper for this new FCC JS challenge, so that'll be fun. It's refreshing to actually think and use logic.
+
+**Link(s) to work**
+1. [freeCodeCamp site](https://www.freecodecamp.org/)
