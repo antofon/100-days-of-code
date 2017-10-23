@@ -178,3 +178,13 @@
 
 **Link(s) to work**
 1. [freeCodeCamp site](https://www.freecodecamp.org/)
+
+
+### Day 19: October 22, Sunday
+
+**Today's Progress**: Progress on mobile-first approach. Contact form is looking better on mobile. Form is almost centered.
+
+**Thoughts** Yes! Things are going much better now. I must admit, I was hesitant to approach my portfolio site today because I knew all the headaches that would come with the responsive design implementation. But, I decided to tackle it anyway - looks like I'm started to figure things out (with the help of W3Schools I might add). It really is a mental game, building projects and all. Someone in the 100DaysofCode Twitter group recommended the Pomodoro Technique. Very helpful. Starting to bring back my enthusiasm and determination to complete this website.
+
+**Link(s) to work**
+1. [Portfolio Website](https://antofon.github.io/portfolio-main/)
