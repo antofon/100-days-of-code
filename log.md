@@ -188,3 +188,13 @@
 
 **Link(s) to work**
 1. [Portfolio Website](https://antofon.github.io/portfolio-main/)
+
+
+### Day 20: October 23, Monday
+
+**Today's Progress**: Added more media queries to my Contact Page to have layout respond better to mobile, tablet, and desktop screen sizes.
+
+**Thoughts** Although I feel as though I'm going back and forth with this mobile design approach (placing CSS rules meant for desktop into media queries and adding CSS rules outside of this for mobile devices), the process seems a bit more enjoyable. If I want things to happen at mobile, CSS rules are written straight away. Then as I increase the device size, I use more rules to describe how my layout responds. Hope to finish the footer section very soon so I can move on to another page.
+
+**Link(s) to work**
+1. [Portfolio Website](https://antofon.github.io/portfolio-main/)
