@@ -198,3 +198,13 @@
 
 **Link(s) to work**
 1. [Portfolio Website](https://antofon.github.io/portfolio-main/)
+
+
+### Day 21: October 24, Tuesday
+
+**Today's Progress**: Worked on FCC Challenges. Completed Basic JavaScript Challenges and moved on to Object Oriented & Functional Programming Challenges. Covered regular expressions, constructors, and array manipulation.
+
+**Thoughts** Feels good to make progress on these freeCodeCamp challenges. Object Oriented & Functional Programming looks awesome, hope to implement it in future projects. I'm sure there's challenges that will use them.
+
+**Link(s) to work**
+1. [freeCodeCamp site](https://www.freecodecamp.org/)
