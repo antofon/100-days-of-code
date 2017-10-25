@@ -208,3 +208,13 @@
 
 **Link(s) to work**
 1. [freeCodeCamp site](https://www.freecodecamp.org/)
+
+
+### Day 22: October 25, Wednesday
+
+**Today's Progress**: Went back to complete Bootstrap and jQuery challenges. Also completed the 'Reverse a String' challenge under 'Basic Algorithm Scripting'
+
+**Thoughts** Decided to go back to complete the challenges I skipped over. I didn't feel like they were relevant to the progress I was making when I was doing 'Basic JavaScript' section (minus jQuery). Proud of myself for completing my first 'Basic Algorithm Scripting' challenge! String manipulation is interesting - not completely straightforward and you have to think about what JS functions will deliver the results you want. Great progress today. I'll probably go back to complete the Front End Development projects before I complete more Algorithm Challenges. Or do a bit of both...
+
+**Link(s) to work**
+1. [freeCodeCamp site](https://www.freecodecamp.org/)
