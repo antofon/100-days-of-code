@@ -228,3 +228,13 @@
 
 **Link(s) to work**
 1. [Tribute Page](https://antofon.github.io/tributepage/)
+
+
+### Day 24: October 27, Friday
+
+**Today's Progress**: Tribute Page complete. Learned more about Bootstrap and SASS in the process.
+
+**Thoughts** Well that was fun! Especially me starting to understand how media queries respond at different device sizes. I loved learning about Dr. Jemison for my freeCodeCamp Tribute Page too. Feels great to have a solid, responsive webpage complete, while also learning about an ambitious and inspirational Black woman in STEM.
+
+**Link(s) to work**
+1. [Tribute Page](https://antofon.github.io/tributepage/)
