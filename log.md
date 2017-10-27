@@ -218,3 +218,13 @@
 
 **Link(s) to work**
 1. [freeCodeCamp site](https://www.freecodecamp.org/)
+
+
+### Day 23: October 26, Thursday
+
+**Today's Progress**: Making Progress with my Tribute Page for the Front End Development Project on freeCodeCamp. Content is of an image and a short bio so far.
+
+**Thoughts** Tribute Page is looking great! Glad I found someone who I wasn't familiar with, it's made me even more interested in researching their biography. Also I think I'm actually starting to understand Bootstrap's Grid Layout! Much more work to do with this, but as long as I get to play more with Bootstrap and SASS I'm good. Having fun!
+
+**Link(s) to work**
+1. [Tribute Page](https://antofon.github.io/tributepage/)
