@@ -238,3 +238,13 @@
 
 **Link(s) to work**
 1. [Tribute Page](https://antofon.github.io/tributepage/)
+
+
+### Day 25: October 28, Saturday
+
+**Today's Progress**: Working on freeCodeCamp Portfolio Project. Have most of content and styles for Home page. Somewhat responsive.
+
+**Thoughts** I feel good about my progress today. Actually using Bootstrap to do what I want, which is cool. A framework sure does help. This has been my third time redoing my portfolio, but this time my mockup design is complete. I know exactly what I want my end result to be, just need to code it up.
+
+**Link(s) to work**
+1. [Porfolio](https://antofon.github.io/portfolio/)
