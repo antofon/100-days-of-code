@@ -248,3 +248,13 @@
 
 **Link(s) to work**
 1. [Porfolio](https://antofon.github.io/portfolio/)
+
+
+### Day 26: October 29, Sunday
+
+**Today's Progress**: Homepage pretty much complete, Flat icons styled and provided corresponding body copy. Took more time to make their grid layout responsive. Also completed pre section with a nice orange button, and fixed width.
+
+**Thoughts** Today went well. Had mini-challenges, but thankfully they didn't impede my progress. I do find that I am taking to much time trying to making things responsive or tweaking minor things, such as padding, or alignment. I just want things to look perfect right away, which is probably a mentality that slows me down. Going to try to keep that in mind when I work on another page tomorrow (About or Contact).
+
+**Link(s) to work**
+1. [Porfolio](https://antofon.github.io/portfolio/)
