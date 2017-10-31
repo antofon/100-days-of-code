@@ -258,3 +258,13 @@
 
 **Link(s) to work**
 1. [Porfolio](https://antofon.github.io/portfolio/)
+
+
+### Day 27: October 30, Monday
+
+**Today's Progress**: Contact page complete, added validation, characters remaining when input in Message field, and styled overall form well. Looks good on mobile, desktop, and nearly everything in between. Began working on About page by providing the base style. Added profile picture and 'lorem ipsum' filler text.
+
+**Thoughts** Tons of progress today. I started picking up steam once my base stylesheet was good to go. Although I tweaked some things, its function is pretty solidified. It allowed me to focus on the content that isn't the same throughout all webpages. The Contact Page went well, I even added JQuery to show how many characters were left in the message field. The About page went well too, I just imported the base stylesheet and could work on the main content just like the Contact page. The About should be done soon, possibly tomorrow.
+
+**Link(s) to work**
+1. [Porfolio](https://antofon.github.io/portfolio/)
