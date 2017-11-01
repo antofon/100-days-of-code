@@ -247,7 +247,7 @@
 **Thoughts** I feel good about my progress today. Actually using Bootstrap to do what I want, which is cool. A framework sure does help. This has been my third time redoing my portfolio, but this time my mockup design is complete. I know exactly what I want my end result to be, just need to code it up.
 
 **Link(s) to work**
-1. [Porfolio](https://antofon.github.io/portfolio/)
+1. [Portfolio](https://antofon.github.io/portfolio/)
 
 
 ### Day 26: October 29, Sunday
@@ -257,7 +257,7 @@
 **Thoughts** Today went well. Had mini-challenges, but thankfully they didn't impede my progress. I do find that I am taking to much time trying to making things responsive or tweaking minor things, such as padding, or alignment. I just want things to look perfect right away, which is probably a mentality that slows me down. Going to try to keep that in mind when I work on another page tomorrow (About or Contact).
 
 **Link(s) to work**
-1. [Porfolio](https://antofon.github.io/portfolio/)
+1. [Portfolio](https://antofon.github.io/portfolio/)
 
 
 ### Day 27: October 30, Monday
@@ -267,4 +267,14 @@
 **Thoughts** Tons of progress today. I started picking up steam once my base stylesheet was good to go. Although I tweaked some things, its function is pretty solidified. It allowed me to focus on the content that isn't the same throughout all webpages. The Contact Page went well, I even added JQuery to show how many characters were left in the message field. The About page went well too, I just imported the base stylesheet and could work on the main content just like the Contact page. The About should be done soon, possibly tomorrow.
 
 **Link(s) to work**
-1. [Porfolio](https://antofon.github.io/portfolio/)
+1. [Portfolio](https://antofon.github.io/portfolio/)
+
+
+### Day 28: October 31, Tuesday
+
+**Today's Progress**: About page Complete, Portfolio page nearly done. Added project panels, styled and responsive. Now need to add Bootstrap modals (aka dialogue windows) describing my projects.
+
+**Thoughts** Almost done!. I breezed through the About page pretty quickly and drew inspiration from my peers to implement animated text! Still loving Bootstrap and SASS combo, it allows me to write my code much faster and avoid DRY (though I may need to polish everything when I am fully complete). The hardest part might be to implement Bootstrap modals since I have so many projects. I'm sure the process will be the same, it'll just be repetitive. 
+
+**Link(s) to work**
+1. [Portfolio](https://antofon.github.io/portfolio/)
