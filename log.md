@@ -278,3 +278,13 @@
 
 **Link(s) to work**
 1. [Portfolio](https://antofon.github.io/portfolio/)
+
+
+### Day 29: November 1, Wednesday
+
+**Today's Progress**: PORTFOLIO WEBSITE COMPLETE!!!! Wrapped up Portfolio page and added 3-bar icon for mobile - tablet devices
+
+**Thoughts** Man, what a journey. It really has been more than a year in the making. I even tried redoing my portfolio twice! On this third try, with the accumulation of all my learning experiences and frustrations, I finally completed it. Although my site will undergo constant changes, for now, I'm happy with everything.
+
+**Link(s) to work**
+1. [Portfolio](https://antofon.github.io/portfolio/)
