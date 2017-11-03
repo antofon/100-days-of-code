@@ -274,7 +274,7 @@
 
 **Today's Progress**: About page Complete, Portfolio page nearly done. Added project panels, styled and responsive. Now need to add Bootstrap modals (aka dialogue windows) describing my projects.
 
-**Thoughts** Almost done!. I breezed through the About page pretty quickly and drew inspiration from my peers to implement animated text! Still loving Bootstrap and SASS combo, it allows me to write my code much faster and avoid DRY (though I may need to polish everything when I am fully complete). The hardest part might be to implement Bootstrap modals since I have so many projects. I'm sure the process will be the same, it'll just be repetitive. 
+**Thoughts** Almost done!. I breezed through the About page pretty quickly and drew inspiration from my peers to implement animated text! Still loving Bootstrap and SASS combo, it allows me to write my code much faster and avoid DRY (though I may need to polish everything when I am fully complete). The hardest part might be to implement Bootstrap modals since I have so many projects. I'm sure the process will be the same, it'll just be repetitive.
 
 **Link(s) to work**
 1. [Portfolio](https://antofon.github.io/portfolio/)
@@ -288,3 +288,13 @@
 
 **Link(s) to work**
 1. [Portfolio](https://antofon.github.io/portfolio/)
+
+
+### Day 30: November 2, Thursday
+
+**Today's Progress**: Cleaned up code on Codepen to pass freeCodeCamp's Personal Portfolio Webpage challenge. Attempted Palindrome algorithm, still working on it.
+
+**Thoughts** The irony of building my portfolio site was that it was listed as a challenge on freeCodeCamp. Then, once I completed it, turns out that I didn't meet the site requirements. So, I had to make quite a bit of changes such as put all the content on one giant page. Moved on to the Palindrome algorithm but it's tricky, need to do more research on how to solve it.
+
+**Link(s) to work**
+1. [Personal Portfolio Webpage](https://codepen.io/aontofon/pen/WXQLMN)
