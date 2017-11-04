@@ -298,3 +298,13 @@
 
 **Link(s) to work**
 1. [Personal Portfolio Webpage](https://codepen.io/aontofon/pen/WXQLMN)
+
+
+### Day 31: November 3, Friday
+
+**Today's Progress**: Completed 3 Challenges under freeCodeCamp's Basic algorithm section for the Front End Developer Track
+
+**Thoughts** I can't believe the amount progress I made today. 3 challenges! Yesterday I was struggling to get through the third one, now I've completed 3, 4 and 5! Instead of coding straight through, I found that scratch paper helped me walk through the logic and validate my reasoning on paper. I also utilized the Read-Search-Ask method a lot, to my benefit. Going to keep tackling these challenges, so far so good.
+
+**Link(s) to work**
+1. [freeCodeCamp Profile](https://www.freecodecamp.org/antofon)
