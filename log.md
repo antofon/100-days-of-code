@@ -308,3 +308,13 @@
 
 **Link(s) to work**
 1. [freeCodeCamp Profile](https://www.freecodecamp.org/antofon)
+
+
+### Day 32: November 4, Saturday
+
+**Today's Progress**: Completed 5 Challenges under freeCodeCamp's Basic algorithm section for the Front End Developer Track
+
+**Thoughts** Great progress again today. Enjoying these challenges because they're strengthening my critical thinking skills and ability to research helpful information.
+
+**Link(s) to work**
+1. [freeCodeCamp Profile](https://www.freecodecamp.org/antofon)
