@@ -328,3 +328,13 @@
 
 **Link(s) to work**
 1. [freeCodeCamp Profile](https://www.freecodecamp.org/antofon)
+
+
+### Day 34: November 6, Monday
+
+**Today's Progress**: Completed 1 Challenge under freeCodeCamp's Basic algorithm section for the Front End Developer Track. Went through JS section on Treehouse for Front End Web Developer Track
+
+**Thoughts** These challenges are getting tougher...
+
+**Link(s) to work**
+1. [freeCodeCamp Profile](https://www.freecodecamp.org/antofon)
