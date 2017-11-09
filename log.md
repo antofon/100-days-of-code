@@ -348,3 +348,13 @@
 
 **Link(s) to work**
 1. [freeCodeCamp Profile](https://www.freecodecamp.org/antofon)
+
+
+### Day 36: November 8, Wednesday
+
+**Today's Progress**: Completed 1 Challenge under freeCodeCamp's Basic algorithm section for the Front End Developer Track.
+
+**Thoughts** Completed a challenge that I didn't even understand? A bit of plug-n-chug with a lot of hoping. It's all good though, when I went back to understand it, the solution made sense. Two more to go!
+
+**Link(s) to work**
+1. [freeCodeCamp Profile](https://www.freecodecamp.org/antofon)
