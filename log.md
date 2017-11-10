@@ -358,3 +358,13 @@
 
 **Link(s) to work**
 1. [freeCodeCamp Profile](https://www.freecodecamp.org/antofon)
+
+
+### Day 37: November 9, Thursday
+
+**Today's Progress**: Completed last two challenges for freeCodeCamp's Basic algorithm section for the Front End Developer Track. Completed JSON APIs and AJAX section on freeCodeCamp. Continued AJAX lessons on Treehouse.
+
+**Thoughts** Glad to have finally completed all the algorithms! They were all challenging and didn't take 10-15 mins like I originally anticipated. Sometimes I had to switch gears or step away for a few hours. Now, I can continue through the Front End Developer Track and work on the first Intermediate Project: Build a Random Quote Machine.
+
+**Link(s) to work**
+1. [freeCodeCamp Profile](https://www.freecodecamp.org/antofon)
