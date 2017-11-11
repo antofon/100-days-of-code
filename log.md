@@ -368,3 +368,13 @@
 
 **Link(s) to work**
 1. [freeCodeCamp Profile](https://www.freecodecamp.org/antofon)
+
+
+### Day 38: November 10, Friday
+
+**Today's Progress**: Worked on HTML and CSS of Random Quote Machine, the first of freeCodeCamp's Intermediate Front End Developer Projects.
+
+**Thoughts** So far so good, created a mockup and began coding the structure and styling of the webpage. I am anticipating those steps to be the easy parts. Maniupulating an API with JS and potentially AJAX will be the hard part.
+
+**Link(s) to work**
+1. [Random Quote Machine](https://antofon.github.io/randomquotemachine/)
