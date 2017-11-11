@@ -378,3 +378,13 @@
 
 **Link(s) to work**
 1. [Random Quote Machine](https://antofon.github.io/randomquotemachine/)
+
+
+### Day 39: November 11, Saturday
+
+**Today's Progress**: Completed the HTML and CSS coding for Random Quote Machine. Also validated HTML and CSS successfully.
+
+**Thoughts** Glad to complete and validate my code. I'm glad I even know how or where to validate my code, it lets me know that I am being more thoughtful as a developer. I want to continue validating my code and following best practices to strengthen my skill set. Now its off to learning more JS, AJAX, JSON, and APIs for the next phase of this project.
+
+**Link(s) to work**
+1. [Random Quote Machine](https://antofon.github.io/randomquotemachine/)
