@@ -388,3 +388,13 @@
 
 **Link(s) to work**
 1. [Random Quote Machine](https://antofon.github.io/randomquotemachine/)
+
+
+### Day 40: November 12, Sunday
+
+**Today's Progress**: Worked with XMLHttpRequest, getting data from a file, and injecting it into HTML.
+
+**Thoughts** These new concepts like AJAX and HTTP requests are interesting and will take some time to learn. But I'm glad I made some progress in understanding them because I'm further in completing this challenge than I was yesterday.
+
+**Link(s) to work**
+1. [Random Quote Machine](https://antofon.github.io/randomquotemachine/)
