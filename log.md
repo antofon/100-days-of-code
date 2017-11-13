@@ -398,3 +398,13 @@
 
 **Link(s) to work**
 1. [Random Quote Machine](https://antofon.github.io/randomquotemachine/)
+
+
+### Day 41: November 13, Monday
+
+**Today's Progress**: Understanding what happens when requests are made and the forismatic API is accessed. Tinkering with JSONP and reading documentation
+
+**Thoughts** A lot of tinkering today. Really just trying to understand what is going on by doing and reading documentation. I think I should take a step back and really internalize what is going on when working with an API though.
+
+**Link(s) to work**
+1. [Random Quote Machine](https://antofon.github.io/randomquotemachine/)
