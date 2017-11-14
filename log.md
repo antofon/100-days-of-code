@@ -408,3 +408,13 @@
 
 **Link(s) to work**
 1. [Random Quote Machine](https://antofon.github.io/randomquotemachine/)
+
+
+### Day 42: November 14, Tuesday
+
+**Today's Progress**: Treehouse tutorials on AJAX, JSONP, and APIs
+
+**Thoughts** A bit lost still. Really wondering how to reach the desired input. I'll keep at it.
+
+**Link(s) to work**
+1. [Random Quote Machine](https://antofon.github.io/randomquotemachine/)
