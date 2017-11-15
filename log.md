@@ -418,3 +418,13 @@
 
 **Link(s) to work**
 1. [Random Quote Machine](https://antofon.github.io/randomquotemachine/)
+
+
+### Day 43: November 15, Wednesday
+
+**Today's Progress**: Random Quote Machine working successfully. Twitter button added (does not post quote yet)
+
+**Thoughts** Glad I remained persistent and was able to figure it out. Coding can really be a mental game. Now I just need to figure out how to post the quote on Twitter and this challenge will be complete. I presume I'll need to look up the Twitter API Doc. I got this.
+
+**Link(s) to work**
+1. [Random Quote Machine](https://antofon.github.io/randomquotemachine/)
