@@ -428,3 +428,13 @@
 
 **Link(s) to work**
 1. [Random Quote Machine](https://antofon.github.io/randomquotemachine/)
+
+
+### Day 44: November 16, Thursday
+
+**Today's Progress**: Added post feature for Twitter button using Twitter Dev's Web Intent feature. Able to now tweet out the quote along with a hashtag. Random Quote Machine officially complete.
+
+**Thoughts** Surprisingly, I was able to add the Tweet feature easily. I thought I would need to make another AJAX call and figure out how to work with JSON again. Glad I didn't think too hard and just read the Twitter Dev Docs. On to the next Intermediate Project!
+
+**Link(s) to work**
+1. [Random Quote Machine](https://antofon.github.io/randomquotemachine/)
