@@ -438,3 +438,13 @@
 
 **Link(s) to work**
 1. [Random Quote Machine](https://antofon.github.io/randomquotemachine/)
+
+
+### Day 45: November 17, Friday
+
+**Today's Progress**: Completed 1 Challenge under freeCodeCamp's Intermediate algorithm section for the Front End Developer Track. Began exploring colors and typography for freeCodeCamp's Intermediate Front End Developer project: Show the Local Weather.
+
+**Thoughts** Was a bit intimidated by the next level of algorithms. Solving at least one lets me know that I should not be worried or fearful. They're not meant to be easy, they're meant to make you a better problem solver and how you access information (docs, forums, etc.) On another note, I'm exploring colors and typography for my Weather API project.
+
+**Link(s) to work**
+1. [freeCodeCamp Profile](https://www.freecodecamp.org/antofon)
