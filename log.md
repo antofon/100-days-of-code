@@ -458,3 +458,13 @@
 
 **Link(s) to work**
 1. [Local Weather App](https://antofon.github.io/localweatherapp/)
+
+
+### Day 47: November 19, Sunday
+
+**Today's Progress**: Began coding HTML and CSS, main structure in place. Played more with Git.
+
+**Thoughts** The Front End part of this project is coming together well. It'll look better with more CSS. Then I'll move on to the Weather API.
+
+**Link(s) to work**
+1. [Local Weather App](https://antofon.github.io/localweatherapp/)
