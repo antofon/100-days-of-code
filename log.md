@@ -448,3 +448,13 @@
 
 **Link(s) to work**
 1. [freeCodeCamp Profile](https://www.freecodecamp.org/antofon)
+
+
+### Day 46: November 18, Saturday
+
+**Today's Progress**: Learned a bit of Git. Created mockup for Local Weather App
+
+**Thoughts** Felt a bit lost today because I wasn't into designing my project right away. It helped that I looked up some inspiration to get my creative juices flowing. Also I felt that now was the time to learn Git from the command line and understand how version control works. I'm going to use the command line through this project. Hopefully I don't break anything haha.
+
+**Link(s) to work**
+1. [Local Weather App](https://antofon.github.io/localweatherapp/)
