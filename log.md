@@ -468,3 +468,13 @@
 
 **Link(s) to work**
 1. [Local Weather App](https://antofon.github.io/localweatherapp/)
+
+
+### Day 48: November 20, Monday
+
+**Today's Progress**: Added more HTML and CSS to work on the styling and structure. Played with positioning for the elements.
+
+**Thoughts** Instead of working with box shadows in CSS I just created an SVG for my button. I probably should learn how to add drop shadows to buttons but for now I like my page design. One step closer to working on the API.
+
+**Link(s) to work**
+1. [Local Weather App](https://antofon.github.io/localweatherapp/)
