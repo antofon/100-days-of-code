@@ -478,3 +478,13 @@
 
 **Link(s) to work**
 1. [Local Weather App](https://antofon.github.io/localweatherapp/)
+
+
+### Day 49: November 21, Tuesday
+
+**Today's Progress**: Completed HTML and CSS for local weather app. Switched out SVG button for an actual element button that "glows" on hover.
+
+**Thoughts** Glad I was able to finalize my HTML and CSS. Extremely pleased with my button implementation. Deep down I wasn't happy with the hack of using an SVG because it didn't feel authentic/natural. So the actual creation of a button is great. Now I can put all my focus in this Weather API.
+
+**Link(s) to work**
+1. [Local Weather App](https://antofon.github.io/localweatherapp/)
