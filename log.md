@@ -488,3 +488,13 @@
 
 **Link(s) to work**
 1. [Local Weather App](https://antofon.github.io/localweatherapp/)
+
+
+### Day 50: November 22, Wednesday
+
+**Today's Progress**: Implemented toggle feature for button
+
+**Thoughts** Accomplished something different today. Thought I would dive into the API but I wanted to complete a toggle feature first. The holidays may impact the amount of work I do per day but I'll at least do an hour.
+
+**Link(s) to work**
+1. [Local Weather App](https://antofon.github.io/localweatherapp/)
