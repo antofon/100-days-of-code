@@ -498,3 +498,13 @@
 
 **Link(s) to work**
 1. [Local Weather App](https://antofon.github.io/localweatherapp/)
+
+
+### Day 51: November 23, Thursday
+
+**Today's Progress**: Fixed toggle feature but to now change between Celsius and Farenheit. Implemented HTML Geolocation feature.
+
+**Thoughts** Very pleased that I was able to complete the toggle feature for my button. Before it wasn't displaying the correct text and wouldn't change from one temperature scale to the other. The Geolocation feature is awesome, used freeCodeCamp for reference to obtain longitude and latitude. Going to keep moving forward with this.
+
+**Link(s) to work**
+1. [Local Weather App](https://antofon.github.io/localweatherapp/)
