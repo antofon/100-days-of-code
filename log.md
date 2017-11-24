@@ -508,3 +508,13 @@
 
 **Link(s) to work**
 1. [Local Weather App](https://antofon.github.io/localweatherapp/)
+
+
+### Day 52: November 24, Friday
+
+**Today's Progress**: Exploring different APIs that will help me obtain the user's city and name.
+
+**Thoughts** No tangible progress today. Spend most of my time learning about APIs that could help me acquire information for the user's city and state. I tried the Google Maps API but I noticed on Stackoverflow that there are TOS (Terms of Service) rules stating that you must include Google Maps map if you're using their data? I know that its more specific than that but I've been making sure that I read documentation and understand the rules of using APIs, which is some level of progress. Sticking with it!
+
+**Link(s) to work**
+1. [Local Weather App](https://antofon.github.io/localweatherapp/)
