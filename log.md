@@ -518,3 +518,13 @@
 
 **Link(s) to work**
 1. [Local Weather App](https://antofon.github.io/localweatherapp/)
+
+
+### Day 53: November 25, Saturday
+
+**Today's Progress**: Did 20+ levels on CSS Grid Garden
+
+**Thoughts** Refreshing to have a change of pace and not so coding heavy. I enjoyed the game and learned quite a bit thus far
+
+**Link(s) to work**
+1. [CSS Grid Garden](http://cssgridgarden.com/)
