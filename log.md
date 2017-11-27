@@ -538,3 +538,13 @@
 
 **Link(s) to work**
 1. [Local Weather App](https://antofon.github.io/localweatherapp/)
+
+
+### Day 55: November 27, Monday
+
+**Today's Progress**: Worked on local weather app. Displays Farenheit and description. Adjusted button and main content positioning due to line break from city/state copy length.
+
+**Thoughts** Progress, progress, progress. Using jQuery's getJSON method is very helpful and allowing me to understand how to the manipulate the data I acquire when the HTTP request is made. I should be wrapping up this project soon. I just need to display the correct image and enable the toggle feature to switch between Farenheit and Celsius. Also make the temp values display as whole numbers. I don't find it necessary to make them floating point numbers.
+
+**Link(s) to work**
+1. [Local Weather App](https://antofon.github.io/localweatherapp/)
