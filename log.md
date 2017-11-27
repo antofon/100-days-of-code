@@ -528,3 +528,13 @@
 
 **Link(s) to work**
 1. [CSS Grid Garden](http://cssgridgarden.com/)
+
+
+### Day 54: November 26, Sunday
+
+**Today's Progress**: Worked on local weather app. Can now display correct local city and state of weather.
+
+**Thoughts** Really glad that I was able to use an API that works for me. The Google Maps APIs TOS made me weary to use it. To my knowledge, the OpenCage Geocoder API should work out.
+
+**Link(s) to work**
+1. [Local Weather App](https://antofon.github.io/localweatherapp/)
