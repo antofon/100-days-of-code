@@ -548,3 +548,13 @@
 
 **Link(s) to work**
 1. [Local Weather App](https://antofon.github.io/localweatherapp/)
+
+
+### Day 56: November 28, Tuesday
+
+**Today's Progress**: Completed Local Weather App. Implemented Toggle Button to change values between Farenheit and Celsius. Turned temperature values to whole numbers. Validated HTML and CSS code. Added JS strict mode with 'use-strict' directive.
+
+**Thoughts** Yes I'm done! Really learned alot for this project including JSON, AJAX to make requests, and working with different APIs. With my code validated and I believe that what I've written is clean, readable, and secure. On to the next project!
+
+**Link(s) to work**
+1. [Local Weather App](https://antofon.github.io/localweatherapp/)
