@@ -558,3 +558,13 @@
 
 **Link(s) to work**
 1. [Local Weather App](https://antofon.github.io/localweatherapp/)
+
+
+### Day 57: November 29, Wednesday
+
+**Today's Progress**: Working on bugs in Local Weather App. Seem to have fixed issue if the "city" property is not present in the user's respective JSON, made by the AJAX request.
+
+**Thoughts** Glad to have reached out to others and received legitimate feedback in the form of snapshots, details about how info is being displayed, and other formats. That helps me fine-tune and improve upon projects such as these. I'll probably manually input some more latitude and longitude coordinates so I cover a reasonable amount of national and global cases. Then I'll ask for more feedback and move on to the Wikipedia Viewer.
+
+**Link(s) to work**
+1. [Local Weather App](https://antofon.github.io/localweatherapp/)
