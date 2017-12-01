@@ -568,3 +568,13 @@
 
 **Link(s) to work**
 1. [Local Weather App](https://antofon.github.io/localweatherapp/)
+
+
+### Day 58: November 30, Thursday
+
+**Today's Progress**: Completed several challenges for Flexbox Zombies.
+
+**Thoughts** More Flexbox fun, nothing really to report here...just trying to enjoy things and switch them up :)
+
+**Link(s) to work**
+1. [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
