@@ -578,3 +578,13 @@
 
 **Link(s) to work**
 1. [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
+
+
+### Day 59: December 1, Friday
+
+**Today's Progress**: Completed several challenges for Flexbox Zombies. Practiced Flexbox in Codepen
+
+**Thoughts** The Flexbox Zombies game will help me figure out how I want to layout my query when I get to the Wikipedia Viewer.
+
+**Link(s) to work**
+1. [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
