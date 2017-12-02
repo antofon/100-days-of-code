@@ -588,3 +588,13 @@
 
 **Link(s) to work**
 1. [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
+
+
+### Day 60: December 2, Saturday
+
+**Today's Progress**: Began coding HTML and CSS of Wikipedia Viewer.
+
+**Thoughts** Still in the early stages but making good progress so far. Should be able to wrap up the CSS in the next day or so. Then I can start exploring the Wikipedia API.
+
+**Link(s) to work**
+1. [Wikipedia Viewer](https://antofon.github.io/wikipediaviewer/)
