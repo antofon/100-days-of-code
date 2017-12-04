@@ -598,3 +598,14 @@
 
 **Link(s) to work**
 1. [Wikipedia Viewer](https://antofon.github.io/wikipediaviewer/)
+
+
+### Day 61: December 3, Sunday
+
+**Today's Progress**: Wrapping up HTML and CSS of Wikipedia Viewer. A few Flexbox Zombies challenges.
+
+**Thoughts** Still going well, no major road blocks. Definitely learned a lot to avoid those pitfalls, positioning used to be confusing to me but I'm implmenting it well. I do want to go ahead and make this project responsive, so I'll have to make some unique media queries for the positioning elements. But it's going well.
+
+**Link(s) to work**
+1. [Wikipedia Viewer](https://antofon.github.io/wikipediaviewer/)
+2. [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
