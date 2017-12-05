@@ -609,3 +609,13 @@
 **Link(s) to work**
 1. [Wikipedia Viewer](https://antofon.github.io/wikipediaviewer/)
 2. [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
+
+
+### Day 62: December 4, Monday
+
+**Today's Progress**: HTML and CSS complete (will validate after project completed). Began working on implementation of MediaWiki API.
+
+**Thoughts** Happy with the progress made today. Although I got rid of the pink blocks on the sides on my query rectangles, I am happy with the pink transition effect I was able to implement on hover. Took a glance at the API and realized that this is just another challenge and an opportunity to understand a third-party API, which is exciting. More research on the API tomorrow.
+
+**Link(s) to work**
+1. [Wikipedia Viewer](https://antofon.github.io/wikipediaviewer/)
