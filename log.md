@@ -619,3 +619,14 @@
 
 **Link(s) to work**
 1. [Wikipedia Viewer](https://antofon.github.io/wikipediaviewer/)
+
+
+### Day 63: December 5, Tuesday
+
+**Today's Progress**: Researching and working on MediaWiki API. A few more Flexbox Zombies challenges.
+
+**Thoughts** Still making progress, not much to report.
+
+**Link(s) to work**
+1. [Wikipedia Viewer](https://antofon.github.io/wikipediaviewer/)
+2. [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
