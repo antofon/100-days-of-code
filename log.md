@@ -630,3 +630,13 @@
 **Link(s) to work**
 1. [Wikipedia Viewer](https://antofon.github.io/wikipediaviewer/)
 2. [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
+
+
+### Day 64: December 6, Wednesday
+
+**Today's Progress**: Captured value from search input, constructed string. Working on getting JSON data back from AJAX GET request.
+
+**Thoughts** Happy I'm understanding JSON, AJAX, and APIs even more. Took some more understanding of the MediaWiki API but I'm getting there. It's only a matter of time.
+
+**Link(s) to work**
+1. [Wikipedia Viewer](https://antofon.github.io/wikipediaviewer/)
