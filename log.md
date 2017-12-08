@@ -640,3 +640,13 @@
 
 **Link(s) to work**
 1. [Wikipedia Viewer](https://antofon.github.io/wikipediaviewer/)
+
+
+### Day 65: December 7, Thursday
+
+**Today's Progress**: Completed Chapter 4 of Flexbox Zombies.
+
+**Thoughts** Wikipedia viewer has been mentally draining for me so I decided to do something light today. Will pick up the wiki viewer tomorrow.
+
+**Link(s) to work**
+1. [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
