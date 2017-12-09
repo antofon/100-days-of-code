@@ -660,3 +660,13 @@
 
 **Link(s) to work**
 1. [Wikipedia Viewer](https://antofon.github.io/wikipediaviewer/)
+
+
+### Day 67: December 9, Saturday
+
+**Today's Progress**: Able to send successful HTTP GET request using AJAX. Added jsonp to data type for the call. Can print out the all the content that comes from the search.
+
+**Thoughts** Lot of great progress today. Happy that a fellow 100DaysofCode member on Twitter suggested how to go about the code. Turns out it worked. I didn't cheat at all, but what he suggested was enough for me to figure the rest out on my own. Even when he told me, I still didn't get it right away. It helped me to eventually figure out how to capture content based on a user's search. Going to keep tweaking it and viewing it in the console until I know how I want to display it on screen.
+
+**Link(s) to work**
+1. [Wikipedia Viewer](https://antofon.github.io/wikipediaviewer/)
