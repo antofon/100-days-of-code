@@ -650,3 +650,13 @@
 
 **Link(s) to work**
 1. [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
+
+
+### Day 66: December 8, Friday
+
+**Today's Progress**: Added ability to have input value information captured on an 'Enter' press in addition to a 'Click' on the search button. Can access the request by the constructured URL but can not submit a successful HTTP GET request.
+
+**Thoughts** Okay, things are getting a bit interesting now. Starting to see different levels of progress and learning more along the way. I notice that I am not on the same domain (domain of interest vs. local test domain). So now I believe this becomes a CORS (Cross-origin resource sharing) type of problem. However, I'll need to work more on this to figure out what I'll need to do. Until tomorrow...
+
+**Link(s) to work**
+1. [Wikipedia Viewer](https://antofon.github.io/wikipediaviewer/)
