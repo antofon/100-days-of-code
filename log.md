@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log - Anwana Ntofon
 
-### Day 1: October 4, Wednesday
+### Day 1: October 4 2017, Wednesday
 
 **Today's Progress**: Start a small game that's based on shuffling three cups and finding a prize. Just HTML and CSS for now. JavaScript later perhaps?
 
@@ -10,7 +10,7 @@
 1. [ThreeCupShuffle](https://antofon.github.io/threecupshuffle/)
 
 
-### Day 2: October 5, Thursday
+### Day 2: October 5 2017, Thursday
 
 **Today's Progress**: Significant progress made today! I was able to add my red cups (created by me), buttons under the cups (to select choices) a 'show rules' button, and a media query upon screen resizing (will add more as time progresses).
 
@@ -20,7 +20,7 @@
 1. [ThreeCupShuffle](https://antofon.github.io/threecupshuffle/)
 
 
-### Day 3: October 6, Friday
+### Day 3: October 6 2017, Friday
 
 **Today's Progress**: Built upon media queries from yesterday. Starting to understand and appreciate mobile-first approach even more. Also began the process of interactions occurring upon click for the cup's buttons.
 
@@ -30,7 +30,7 @@
 1. [ThreeCupShuffle](https://antofon.github.io/threecupshuffle/)
 
 
-### Day 4: October 7, Saturday
+### Day 4: October 7 2017, Saturday
 
 **Today's Progress**: Able to have metal ball appear if user guesses the correct position. Also randomized position number to have the user truly guess which cup is holding the metal ball. Refined a  media query a bit more and added another one (centered div element on 2nd row when the width of the top was 50% for each element).
 
@@ -40,7 +40,7 @@
 1. [ThreeCupShuffle](https://antofon.github.io/threecupshuffle/)
 
 
-### Day 5: October 8, Sunday
+### Day 5: October 8 2017, Sunday
 
 **Today's Progress**: Rough coding session today...still debugging my code. Tried switch statements, loops to ensure that code runs while user is on their first (and only) guess for the ball's position, etc. After a few hours I believe that I understand why I'm having trouble.
 
@@ -50,7 +50,7 @@
 1. [ThreeCupShuffle](https://antofon.github.io/threecupshuffle/)
 
 
-### Day 6: October 9, Monday
+### Day 6: October 9 2017, Monday
 
 **Today's Progress**: I FINALLY FIGURED IT OUT!!!!! This is honestly the first project I fully completed that looks good on some mobile devices (android phone, iPod Touch). The initial start to this day was a ton of thinking and walking through the code before really typing anything out. But I accomplished it, and am ready to move on to the next project. Or add some more to this project? Who knows? We'll find out tomorrow.
 
@@ -60,7 +60,7 @@
 1. [ThreeCupShuffle](https://antofon.github.io/threecupshuffle/)
 
 
-### Day 7: October 10, Tuesday
+### Day 7: October 10 2017, Tuesday
 
 **Today's Progress**: Currently brainstorming for the next project, so I decided to work on the Basic JavaScript section of freeCodeCamp. Most likely will begin project tomorrow.
 
@@ -70,7 +70,7 @@
 1. [freeCodeCamp site](https://www.freecodecamp.org/)
 
 
-### Day 8: October 11, Wednesday
+### Day 8: October 11 2017, Wednesday
 
 **Today's Progress**: Started my paint/drawing web project. Have the basic structure down and started adding some CSS. Going to explore Canvas this time around, so that should be fun.
 
@@ -80,7 +80,7 @@
 1. [ImagineThat!](https://antofon.github.io/imaginethat/)
 
 
-### Day 9: October 12, Thursday
+### Day 9: October 12 2017, Thursday
 
 **Today's Progress**: More progress with constructing the buttons, 'Colors' and 'Sizes' tools for my painting/drawing web project. Didn't learn too much about Canvas as I was working on the other elements. That's okay though, I want to make sure those are taken care of before I jump into any unfamiliar tasks. Oh yea, I'm using SASS (SCSS version) for this project! Wanted to test it out and see how powerful it can be. So far, I'm impressed by how much quicker and maintainable my code is.
 
@@ -90,7 +90,7 @@
 1. [ImagineThat!](https://antofon.github.io/imaginethat/)
 
 
-### Day 10: October 13, Friday
+### Day 10: October 13 2017, Friday
 
 **Today's Progress**: Added size values for Size Tool and started working with Canvas and its drawing capabilities.
 
@@ -100,7 +100,7 @@
 1. [ImagineThat!](https://antofon.github.io/imaginethat/)
 
 
-### Day 11: October 14, Saturday
+### Day 11: October 14 2017, Saturday
 
 **Today's Progress**: Worked on Portfolio, mainly Contact Page
 
@@ -110,7 +110,7 @@
 1. [Portfolio Website](https://antofon.github.io/portfolio-main/)
 
 
-### Day 12: October 15, Sunday
+### Day 12: October 15 2017, Sunday
 
 **Today's Progress**: Worked on About Page for Portfolio Website
 
@@ -120,7 +120,7 @@
 1. [Portfolio Website](https://antofon.github.io/portfolio-main/)
 
 
-### Day 13: October 16, Monday
+### Day 13: October 16 2017, Monday
 
 **Today's Progress**: Added CSS Reset to code, had to redo several element's alignments, font-sizes, etc. Went back to work on header and footer. Standardizing that so I can import the templated code into other stylesheets.
 
@@ -130,7 +130,7 @@
 1. [Portfolio Website](https://antofon.github.io/portfolio-main/)
 
 
-### Day 14: October 17, Tuesday
+### Day 14: October 17 2017, Tuesday
 
 **Today's Progress**: Working more with media queries, made 'About' page slightly more mobile-friendly.
 
@@ -140,7 +140,7 @@
 1. [Portfolio Website](https://antofon.github.io/portfolio-main/)
 
 
-### Day 15: October 18, Wednesday
+### Day 15: October 18 2017, Wednesday
 
 **Today's Progress**: Worked on 'About' page layout, went back to 'Contact' page to try to make responsive.
 
@@ -150,7 +150,7 @@
 1. [Portfolio Website](https://antofon.github.io/portfolio-main/)
 
 
-### Day 16: October 19, Thursday
+### Day 16: October 19 2017, Thursday
 
 **Today's Progress**: Worked on Media Queries and understanding responsive web design. Created one webpage
 
@@ -160,7 +160,7 @@
 1. [None]
 
 
-### Day 17: October 20, Friday
+### Day 17: October 20 2017, Friday
 
 **Today's Progress**: FCC JavaScript tutorials: if, else if, else statements and switch statements.
 
@@ -170,7 +170,7 @@
 1. [freeCodeCamp site](https://www.freecodecamp.org/)
 
 
-### Day 18: October 21, Saturday
+### Day 18: October 21 2017, Saturday
 
 **Today's Progress**: More FCC JavaScript tutorials (objects, loops, etc.)
 
@@ -180,7 +180,7 @@
 1. [freeCodeCamp site](https://www.freecodecamp.org/)
 
 
-### Day 19: October 22, Sunday
+### Day 19: October 22 2017, Sunday
 
 **Today's Progress**: Progress on mobile-first approach. Contact form is looking better on mobile. Form is almost centered.
 
@@ -190,7 +190,7 @@
 1. [Portfolio Website](https://antofon.github.io/portfolio-main/)
 
 
-### Day 20: October 23, Monday
+### Day 20: October 23 2017, Monday
 
 **Today's Progress**: Added more media queries to my Contact Page to have layout respond better to mobile, tablet, and desktop screen sizes.
 
@@ -200,7 +200,7 @@
 1. [Portfolio Website](https://antofon.github.io/portfolio-main/)
 
 
-### Day 21: October 24, Tuesday
+### Day 21: October 24 2017, Tuesday
 
 **Today's Progress**: Worked on FCC Challenges. Completed Basic JavaScript Challenges and moved on to Object Oriented & Functional Programming Challenges. Covered regular expressions, constructors, and array manipulation.
 
@@ -210,7 +210,7 @@
 1. [freeCodeCamp site](https://www.freecodecamp.org/)
 
 
-### Day 22: October 25, Wednesday
+### Day 22: October 25 2017, Wednesday
 
 **Today's Progress**: Went back to complete Bootstrap and jQuery challenges. Also completed the 'Reverse a String' challenge under 'Basic Algorithm Scripting'
 
@@ -220,7 +220,7 @@
 1. [freeCodeCamp site](https://www.freecodecamp.org/)
 
 
-### Day 23: October 26, Thursday
+### Day 23: October 26 2017, Thursday
 
 **Today's Progress**: Making Progress with my Tribute Page for the Front End Development Project on freeCodeCamp. Content is of an image and a short bio so far.
 
@@ -230,7 +230,7 @@
 1. [Tribute Page](https://antofon.github.io/tributepage/)
 
 
-### Day 24: October 27, Friday
+### Day 24: October 27 2017, Friday
 
 **Today's Progress**: Tribute Page complete. Learned more about Bootstrap and SASS in the process.
 
@@ -240,7 +240,7 @@
 1. [Tribute Page](https://antofon.github.io/tributepage/)
 
 
-### Day 25: October 28, Saturday
+### Day 25: October 28 2017, Saturday
 
 **Today's Progress**: Working on freeCodeCamp Portfolio Project. Have most of content and styles for Home page. Somewhat responsive.
 
@@ -250,7 +250,7 @@
 1. [Portfolio](https://antofon.github.io/portfolio/)
 
 
-### Day 26: October 29, Sunday
+### Day 26: October 29 2017, Sunday
 
 **Today's Progress**: Homepage pretty much complete, Flat icons styled and provided corresponding body copy. Took more time to make their grid layout responsive. Also completed pre section with a nice orange button, and fixed width.
 
@@ -260,7 +260,7 @@
 1. [Portfolio](https://antofon.github.io/portfolio/)
 
 
-### Day 27: October 30, Monday
+### Day 27: October 30 2017, Monday
 
 **Today's Progress**: Contact page complete, added validation, characters remaining when input in Message field, and styled overall form well. Looks good on mobile, desktop, and nearly everything in between. Began working on About page by providing the base style. Added profile picture and 'lorem ipsum' filler text.
 
@@ -270,7 +270,7 @@
 1. [Portfolio](https://antofon.github.io/portfolio/)
 
 
-### Day 28: October 31, Tuesday
+### Day 28: October 31 2017, Tuesday
 
 **Today's Progress**: About page Complete, Portfolio page nearly done. Added project panels, styled and responsive. Now need to add Bootstrap modals (aka dialogue windows) describing my projects.
 
@@ -280,7 +280,7 @@
 1. [Portfolio](https://antofon.github.io/portfolio/)
 
 
-### Day 29: November 1, Wednesday
+### Day 29: November 1 2017, Wednesday
 
 **Today's Progress**: PORTFOLIO WEBSITE COMPLETE!!!! Wrapped up Portfolio page and added 3-bar icon for mobile - tablet devices
 
@@ -290,7 +290,7 @@
 1. [Portfolio](https://antofon.github.io/portfolio/)
 
 
-### Day 30: November 2, Thursday
+### Day 30: November 2 2017, Thursday
 
 **Today's Progress**: Cleaned up code on Codepen to pass freeCodeCamp's Personal Portfolio Webpage challenge. Attempted Palindrome algorithm, still working on it.
 
@@ -300,7 +300,7 @@
 1. [Personal Portfolio Webpage](https://codepen.io/aontofon/pen/WXQLMN)
 
 
-### Day 31: November 3, Friday
+### Day 31: November 3 2017, Friday
 
 **Today's Progress**: Completed 3 Challenges under freeCodeCamp's Basic algorithm section for the Front End Developer Track
 
@@ -310,7 +310,7 @@
 1. [freeCodeCamp Profile](https://www.freecodecamp.org/antofon)
 
 
-### Day 32: November 4, Saturday
+### Day 32: November 4 2017, Saturday
 
 **Today's Progress**: Completed 5 Challenges under freeCodeCamp's Basic algorithm section for the Front End Developer Track
 
@@ -320,7 +320,7 @@
 1. [freeCodeCamp Profile](https://www.freecodecamp.org/antofon)
 
 
-### Day 33: November 5, Sunday
+### Day 33: November 5 2017, Sunday
 
 **Today's Progress**: Completed 1 Challenge under freeCodeCamp's Basic algorithm section for the Front End Developer Track
 
@@ -330,7 +330,7 @@
 1. [freeCodeCamp Profile](https://www.freecodecamp.org/antofon)
 
 
-### Day 34: November 6, Monday
+### Day 34: November 6 2017, Monday
 
 **Today's Progress**: Completed 1 Challenge under freeCodeCamp's Basic algorithm section for the Front End Developer Track. Went through JS section on Treehouse for Front End Web Developer Track
 
@@ -340,7 +340,7 @@
 1. [freeCodeCamp Profile](https://www.freecodecamp.org/antofon)
 
 
-### Day 35: November 7, Tuesday
+### Day 35: November 7 2017, Tuesday
 
 **Today's Progress**: Completed 1 Challenge under freeCodeCamp's Basic algorithm section for the Front End Developer Track.
 
@@ -350,7 +350,7 @@
 1. [freeCodeCamp Profile](https://www.freecodecamp.org/antofon)
 
 
-### Day 36: November 8, Wednesday
+### Day 36: November 8 2017, Wednesday
 
 **Today's Progress**: Completed 1 Challenge under freeCodeCamp's Basic algorithm section for the Front End Developer Track.
 
@@ -360,7 +360,7 @@
 1. [freeCodeCamp Profile](https://www.freecodecamp.org/antofon)
 
 
-### Day 37: November 9, Thursday
+### Day 37: November 9 2017, Thursday
 
 **Today's Progress**: Completed last two challenges for freeCodeCamp's Basic algorithm section for the Front End Developer Track. Completed JSON APIs and AJAX section on freeCodeCamp. Continued AJAX lessons on Treehouse.
 
@@ -370,7 +370,7 @@
 1. [freeCodeCamp Profile](https://www.freecodecamp.org/antofon)
 
 
-### Day 38: November 10, Friday
+### Day 38: November 10 2017, Friday
 
 **Today's Progress**: Worked on HTML and CSS of Random Quote Machine, the first of freeCodeCamp's Intermediate Front End Developer Projects.
 
@@ -380,7 +380,7 @@
 1. [Random Quote Machine](https://antofon.github.io/randomquotemachine/)
 
 
-### Day 39: November 11, Saturday
+### Day 39: November 11 2017, Saturday
 
 **Today's Progress**: Completed the HTML and CSS coding for Random Quote Machine. Also validated HTML and CSS successfully.
 
@@ -390,7 +390,7 @@
 1. [Random Quote Machine](https://antofon.github.io/randomquotemachine/)
 
 
-### Day 40: November 12, Sunday
+### Day 40: November 12 2017, Sunday
 
 **Today's Progress**: Worked with XMLHttpRequest, getting data from a file, and injecting it into HTML.
 
@@ -400,7 +400,7 @@
 1. [Random Quote Machine](https://antofon.github.io/randomquotemachine/)
 
 
-### Day 41: November 13, Monday
+### Day 41: November 13 2017, Monday
 
 **Today's Progress**: Understanding what happens when requests are made and the forismatic API is accessed. Tinkering with JSONP and reading documentation
 
@@ -410,7 +410,7 @@
 1. [Random Quote Machine](https://antofon.github.io/randomquotemachine/)
 
 
-### Day 42: November 14, Tuesday
+### Day 42: November 14 2017, Tuesday
 
 **Today's Progress**: Treehouse tutorials on AJAX, JSONP, and APIs
 
@@ -420,7 +420,7 @@
 1. [Random Quote Machine](https://antofon.github.io/randomquotemachine/)
 
 
-### Day 43: November 15, Wednesday
+### Day 43: November 15 2017, Wednesday
 
 **Today's Progress**: Random Quote Machine working successfully. Twitter button added (does not post quote yet)
 
@@ -430,7 +430,7 @@
 1. [Random Quote Machine](https://antofon.github.io/randomquotemachine/)
 
 
-### Day 44: November 16, Thursday
+### Day 44: November 16 2017, Thursday
 
 **Today's Progress**: Added post feature for Twitter button using Twitter Dev's Web Intent feature. Able to now tweet out the quote along with a hashtag. Random Quote Machine officially complete.
 
@@ -440,7 +440,7 @@
 1. [Random Quote Machine](https://antofon.github.io/randomquotemachine/)
 
 
-### Day 45: November 17, Friday
+### Day 45: November 17 2017, Friday
 
 **Today's Progress**: Completed 1 Challenge under freeCodeCamp's Intermediate algorithm section for the Front End Developer Track. Began exploring colors and typography for freeCodeCamp's Intermediate Front End Developer project: Show the Local Weather.
 
@@ -450,7 +450,7 @@
 1. [freeCodeCamp Profile](https://www.freecodecamp.org/antofon)
 
 
-### Day 46: November 18, Saturday
+### Day 46: November 18 2017, Saturday
 
 **Today's Progress**: Learned a bit of Git. Created mockup for Local Weather App
 
@@ -460,7 +460,7 @@
 1. [Local Weather App](https://antofon.github.io/localweatherapp/)
 
 
-### Day 47: November 19, Sunday
+### Day 47: November 19 2017, Sunday
 
 **Today's Progress**: Began coding HTML and CSS, main structure in place. Played more with Git.
 
@@ -470,7 +470,7 @@
 1. [Local Weather App](https://antofon.github.io/localweatherapp/)
 
 
-### Day 48: November 20, Monday
+### Day 48: November 20 2017, Monday
 
 **Today's Progress**: Added more HTML and CSS to work on the styling and structure. Played with positioning for the elements.
 
@@ -480,7 +480,7 @@
 1. [Local Weather App](https://antofon.github.io/localweatherapp/)
 
 
-### Day 49: November 21, Tuesday
+### Day 49: November 21 2017, Tuesday
 
 **Today's Progress**: Completed HTML and CSS for local weather app. Switched out SVG button for an actual element button that "glows" on hover.
 
@@ -490,7 +490,7 @@
 1. [Local Weather App](https://antofon.github.io/localweatherapp/)
 
 
-### Day 50: November 22, Wednesday
+### Day 50: November 22 2017, Wednesday
 
 **Today's Progress**: Implemented toggle feature for button
 
@@ -500,7 +500,7 @@
 1. [Local Weather App](https://antofon.github.io/localweatherapp/)
 
 
-### Day 51: November 23, Thursday
+### Day 51: November 23 2017, Thursday
 
 **Today's Progress**: Fixed toggle feature but to now change between Celsius and Farenheit. Implemented HTML Geolocation feature.
 
@@ -510,7 +510,7 @@
 1. [Local Weather App](https://antofon.github.io/localweatherapp/)
 
 
-### Day 52: November 24, Friday
+### Day 52: November 24 2017, Friday
 
 **Today's Progress**: Exploring different APIs that will help me obtain the user's city and name.
 
@@ -520,7 +520,7 @@
 1. [Local Weather App](https://antofon.github.io/localweatherapp/)
 
 
-### Day 53: November 25, Saturday
+### Day 53: November 25 2017, Saturday
 
 **Today's Progress**: Did 20+ levels on CSS Grid Garden
 
@@ -530,7 +530,7 @@
 1. [CSS Grid Garden](http://cssgridgarden.com/)
 
 
-### Day 54: November 26, Sunday
+### Day 54: November 26 2017, Sunday
 
 **Today's Progress**: Worked on local weather app. Can now display correct local city and state of weather.
 
@@ -540,7 +540,7 @@
 1. [Local Weather App](https://antofon.github.io/localweatherapp/)
 
 
-### Day 55: November 27, Monday
+### Day 55: November 27 2017, Monday
 
 **Today's Progress**: Worked on local weather app. Displays Farenheit and description. Adjusted button and main content positioning due to line break from city/state copy length.
 
@@ -550,7 +550,7 @@
 1. [Local Weather App](https://antofon.github.io/localweatherapp/)
 
 
-### Day 56: November 28, Tuesday
+### Day 56: November 28 2017, Tuesday
 
 **Today's Progress**: Completed Local Weather App. Implemented Toggle Button to change values between Farenheit and Celsius. Turned temperature values to whole numbers. Validated HTML and CSS code. Added JS strict mode with 'use-strict' directive.
 
@@ -560,7 +560,7 @@
 1. [Local Weather App](https://antofon.github.io/localweatherapp/)
 
 
-### Day 57: November 29, Wednesday
+### Day 57: November 29 2017, Wednesday
 
 **Today's Progress**: Working on bugs in Local Weather App. Seem to have fixed issue if the "city" property is not present in the user's respective JSON, made by the AJAX request.
 
@@ -570,7 +570,7 @@
 1. [Local Weather App](https://antofon.github.io/localweatherapp/)
 
 
-### Day 58: November 30, Thursday
+### Day 58: November 30 2017, Thursday
 
 **Today's Progress**: Completed several challenges for Flexbox Zombies.
 
@@ -580,7 +580,7 @@
 1. [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
 
 
-### Day 59: December 1, Friday
+### Day 59: December 1 2017, Friday
 
 **Today's Progress**: Completed several challenges for Flexbox Zombies. Practiced Flexbox in Codepen
 
@@ -590,7 +590,7 @@
 1. [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
 
 
-### Day 60: December 2, Saturday
+### Day 60: December 2 2017, Saturday
 
 **Today's Progress**: Began coding HTML and CSS of Wikipedia Viewer.
 
@@ -600,7 +600,7 @@
 1. [Wikipedia Viewer](https://antofon.github.io/wikipediaviewer/)
 
 
-### Day 61: December 3, Sunday
+### Day 61: December 3 2017, Sunday
 
 **Today's Progress**: Wrapping up HTML and CSS of Wikipedia Viewer. A few Flexbox Zombies challenges.
 
@@ -611,7 +611,7 @@
 2. [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
 
 
-### Day 62: December 4, Monday
+### Day 62: December 4 2017, Monday
 
 **Today's Progress**: HTML and CSS complete (will validate after project completed). Began working on implementation of MediaWiki API.
 
@@ -621,7 +621,7 @@
 1. [Wikipedia Viewer](https://antofon.github.io/wikipediaviewer/)
 
 
-### Day 63: December 5, Tuesday
+### Day 63: December 5 2017, Tuesday
 
 **Today's Progress**: Researching and working on MediaWiki API. A few more Flexbox Zombies challenges.
 
@@ -632,7 +632,7 @@
 2. [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
 
 
-### Day 64: December 6, Wednesday
+### Day 64: December 6 2017, Wednesday
 
 **Today's Progress**: Captured value from search input, constructed string. Working on getting JSON data back from AJAX GET request.
 
@@ -642,7 +642,7 @@
 1. [Wikipedia Viewer](https://antofon.github.io/wikipediaviewer/)
 
 
-### Day 65: December 7, Thursday
+### Day 65: December 7 2017, Thursday
 
 **Today's Progress**: Completed Chapter 4 of Flexbox Zombies.
 
@@ -652,7 +652,7 @@
 1. [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
 
 
-### Day 66: December 8, Friday
+### Day 66: December 8 2017, Friday
 
 **Today's Progress**: Added ability to have input value information captured on an 'Enter' press in addition to a 'Click' on the search button. Can access the request by the constructured URL but can not submit a successful HTTP GET request.
 
@@ -662,11 +662,21 @@
 1. [Wikipedia Viewer](https://antofon.github.io/wikipediaviewer/)
 
 
-### Day 67: December 9, Saturday
+### Day 67: December 9 2017, Saturday
 
 **Today's Progress**: Able to send successful HTTP GET request using AJAX. Added jsonp to data type for the call. Can print out the all the content that comes from the search.
 
 **Thoughts** Lot of great progress today. Happy that a fellow 100DaysofCode member on Twitter suggested how to go about the code. Turns out it worked. I didn't cheat at all, but what he suggested was enough for me to figure the rest out on my own. Even when he told me, I still didn't get it right away. It helped me to eventually figure out how to capture content based on a user's search. Going to keep tweaking it and viewing it in the console until I know how I want to display it on screen.
+
+**Link(s) to work**
+1. [Wikipedia Viewer](https://antofon.github.io/wikipediaviewer/)
+
+
+### Day 68: December 10 2017, Sunday
+
+**Today's Progress**: Parsed entire HTML from search into summary. Able to display summary and subheader for a query item. Cleaned up code, adding/removing comments and whitespace.
+
+**Thoughts** More exciting progress! Albeit, I still have much work to do as far as correctly displaying summaries that based on a multi-word search (i.e. greek yogurt), or plural words (i.e. tomatoes), but it's progress nonetheless. I'm just happy that I persisted and scowered the Web for relevant documentation. With each day I'm getting that much closer to completing this project. Excited to see this to the end.
 
 **Link(s) to work**
 1. [Wikipedia Viewer](https://antofon.github.io/wikipediaviewer/)
