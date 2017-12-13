@@ -686,7 +686,17 @@
 
 **Today's Progress**: Got links working. Other links go to their corresponding wikipedia pages. Link taken from user's search value goes to its intended wiki page.
 
-**Thoughts** Still pushing. Mentally checking off these steps I'm completing. Next, I'll remove the query items set in place and generate 2-3 upon a user's search. After that, I'll add a button for the Random Article link. Then I should be done. 
+**Thoughts** Still pushing. Mentally checking off these steps I'm completing. Next, I'll remove the query items set in place and generate 2-3 upon a user's search. After that, I'll add a button for the Random Article link. Then I should be done.
+
+**Link(s) to work**
+1. [Wikipedia Viewer](https://antofon.github.io/wikipediaviewer/)
+
+
+### Day 70: December 12 2017, Tuesday
+
+**Today's Progress**: Completed Wikipedia Viewer Project. Implemented proper functionality of user search, added link to go to corresponding query wiki pages, and added random article link.
+
+**Thoughts** Wow, really finished this project. The original search implementation was all "wrong"! Once I found the page that helped me construct a better query search URL, I knew I was in the right direction. That and also actually testing out what results come up if I entered a value in Wikipedia's search field. After that I just kept building on what I said I would accomplish within the next two days. Really happy that I buckled down and finished it all today.  
 
 **Link(s) to work**
 1. [Wikipedia Viewer](https://antofon.github.io/wikipediaviewer/)
