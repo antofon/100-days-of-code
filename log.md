@@ -700,3 +700,13 @@
 
 **Link(s) to work**
 1. [Wikipedia Viewer](https://antofon.github.io/wikipediaviewer/)
+
+
+### Day 71: December 13 2017, Wednesday
+
+**Today's Progress**: Started React (w/Flux) Udemy course. Got through JS basics, and some NodeJS videos.
+
+**Thoughts** After the Wikipedia Viewer project, it's refreshing to switch gears and learn something completely different. Being that I've coded in Angular already, I thought it'd be good to switch to React and build some awesome projects.
+
+**Link(s) to work**
+1. [Udemy: React and Flux Web Development for Beginners](https://www.udemy.com/react-flux/learn/v4/overview)
