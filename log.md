@@ -710,3 +710,13 @@
 
 **Link(s) to work**
 1. [Udemy: React and Flux Web Development for Beginners](https://www.udemy.com/react-flux/learn/v4/overview)
+
+
+### Day 72: December 14 2017, Thursday
+
+**Today's Progress**: Continued with React (w/Flux) Udemy course. Worked on React Skeleton
+
+**Thoughts** Happy to be learning more about React. A bit stuck now thought, got to the end of the tutorial to test if it would work and it's not...will figure out tomorrow.
+
+**Link(s) to work**
+1. [Udemy: React and Flux Web Development for Beginners](https://www.udemy.com/react-flux/learn/v4/overview)
