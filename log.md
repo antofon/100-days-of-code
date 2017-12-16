@@ -720,3 +720,13 @@
 
 **Link(s) to work**
 1. [Udemy: React and Flux Web Development for Beginners](https://www.udemy.com/react-flux/learn/v4/overview)
+
+
+### Day 73: December 15 2017, Friday
+
+**Today's Progress**: Updated personal website with most recent freeCodeCamp projects.
+
+**Thoughts** Honestly I didn't plan to updating my portfolio website but my Resume needed some polishing. Then I realized I had to update the link I reference to my Resume on my website. Once I did that, I remembered I had new projects to add and here we are. Glad to see new projects added, steadily building upon my skills and website.
+
+**Link(s) to work**
+1. [Personal Website](https://anwanantofon.me/)
