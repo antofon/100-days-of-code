@@ -730,3 +730,14 @@
 
 **Link(s) to work**
 1. [Personal Website](https://anwanantofon.me/)
+
+
+### Day 74: December 16 2017, Saturday
+
+**Today's Progress**: Created even row spacing for web deve projects under the Portfolio section of Website. Worked more on Udemy React course, create own React app
+
+**Thoughts** More happy with website updates, online presence looks good. Better than that, I was able to find a workaround as far as getting the React skeleton to work from the Udemy course I was watching. Going to keep up with it. I want to start thinking about the Twitch API project for freeCodeCamp but I'm intrigued by React at the moment. Might pick it back up on Monday.
+
+**Link(s) to work**
+1. [Personal Website](https://anwanantofon.me/)
+2. [Udemy: React and Flux Web Development for Beginners](https://www.udemy.com/react-flux/learn/v4/overview)
