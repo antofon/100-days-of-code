@@ -734,10 +734,21 @@
 
 ### Day 74: December 16 2017, Saturday
 
-**Today's Progress**: Created even row spacing for web deve projects under the Portfolio section of Website. Worked more on Udemy React course, create own React app
+**Today's Progress**: Created even row spacing for web dev projects under the Portfolio section of Website. Worked more on Udemy React course, create own React app
 
 **Thoughts** More happy with website updates, online presence looks good. Better than that, I was able to find a workaround as far as getting the React skeleton to work from the Udemy course I was watching. Going to keep up with it. I want to start thinking about the Twitch API project for freeCodeCamp but I'm intrigued by React at the moment. Might pick it back up on Monday.
 
 **Link(s) to work**
 1. [Personal Website](https://anwanantofon.me/)
 2. [Udemy: React and Flux Web Development for Beginners](https://www.udemy.com/react-flux/learn/v4/overview)
+
+
+### Day 75: December 17 2017, Sunday
+
+**Today's Progress**: Completed React Ingredients app on Udemy. Displays list of ingredients that the user enters on screen. Watched intro video for Twitch.tv JSON API project
+
+**Thoughts** Understood how React works from bottom up, focusing on the simplest of components until getting to the top level. Glad to actually be applying what I'm learning from these Udemy videos, they're great so far. Also I want to start working on the Twitch.tv freeCodeCamp project so I at least want to watch the intro video.
+
+**Link(s) to work**
+1. [Udemy: React and Flux Web Development for Beginners](https://www.udemy.com/react-flux/learn/v4/overview)
+2. [freeCodeCamp](https://www.freecodecamp.org/challenges/use-the-twitchtv-json-api)
