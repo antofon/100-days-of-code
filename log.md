@@ -752,3 +752,13 @@
 **Link(s) to work**
 1. [Udemy: React and Flux Web Development for Beginners](https://www.udemy.com/react-flux/learn/v4/overview)
 2. [freeCodeCamp](https://www.freecodecamp.org/challenges/use-the-twitchtv-json-api)
+
+
+### Day 76: December 18 2017, Monday
+
+**Today's Progress**: Continued with Udemy React Tutorial. Learned about React inline styling, and adding Bootstrap to JSX.
+
+**Thoughts** Wow, seeing firsthand how reusable and maintainable React is. Learning that self-containment and abstraction are very important because then nothing has to have boundaries. The more abstract, the more objects can be used in JSX and build up to the HTML. Learning Angular then switching over to React helped me understand how much more effort it took in creating custom directives etc. With components, you can split things into individual pieces and reuse code, which is awesome.
+
+**Link(s) to work**
+1. [Udemy: React and Flux Web Development for Beginners](https://www.udemy.com/react-flux/learn/v4/overview)
