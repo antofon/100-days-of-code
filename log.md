@@ -772,3 +772,13 @@
 
 **Link(s) to work**
 1. [Udemy: React and Flux Web Development for Beginners](https://www.udemy.com/react-flux/learn/v4/overview)
+
+
+### Day 78: December 20 2017, Wednesday
+
+**Today's Progress**: Working more on React Exercise: Make a React Website.
+
+**Thoughts** Just continuing on, nothing major to report. Still trying to understand components and figure out how inline styles work for different websites
+
+**Link(s) to work**
+1. [Udemy: React and Flux Web Development for Beginners](https://www.udemy.com/react-flux/learn/v4/overview)
