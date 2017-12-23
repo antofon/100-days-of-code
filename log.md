@@ -793,3 +793,13 @@
 **Link(s) to work**
 1. [Udemy: React and Flux Web Development for Beginners](https://www.udemy.com/react-flux/learn/v4/overview)
 2. [Codecademy](https://www.codecademy.com/)
+
+
+### Day 80: December 22 2017, Friday
+
+**Today's Progress**: Completed 2 sections of the Learn ReactJS: Part 1 Course on Codecademy.
+
+**Thoughts** Before moving forward with the Udemy exercise, I wanted to learn more about JSX. I feel that Codecademy is the best way to learn for beginners to learn new skills/technologies. Being that I'm a beginner when it comes to React, this is a good move for me.
+
+**Link(s) to work**
+1. [Codecademy](https://www.codecademy.com/)
