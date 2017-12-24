@@ -803,3 +803,13 @@
 
 **Link(s) to work**
 1. [Codecademy](https://www.codecademy.com/)
+
+
+### Day 81: December 23 2017, Saturday
+
+**Today's Progress**: Completed 2 more sections of the Learn ReactJS: Part 1 Course on Codecademy.
+
+**Thoughts** Think I've had food poisoning, the whole day has been tough to code. Managed to at least get some more tutorial progress in.
+
+**Link(s) to work**
+1. [Codecademy](https://www.codecademy.com/)
