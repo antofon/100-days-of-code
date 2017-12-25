@@ -813,3 +813,13 @@
 
 **Link(s) to work**
 1. [Codecademy](https://www.codecademy.com/)
+
+
+### Day 82: December 24 2017, Sunday
+
+**Today's Progress**: Finished off Learn ReactJS: Part 1 Course on Codecademy.
+
+**Thoughts** Still feeling weak, but determined enough to get some coding in. Too close to give up now.
+
+**Link(s) to work**
+1. [Codecademy](https://www.codecademy.com/)
