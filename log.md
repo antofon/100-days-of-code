@@ -823,3 +823,13 @@
 
 **Link(s) to work**
 1. [Codecademy](https://www.codecademy.com/)
+
+
+### Day 83: December 25 2017, Monday
+
+**Today's Progress**: Worked on Roman Numeral Converter algo on freeCodeCamp
+
+**Thoughts** Attempted algo, pretty difficult, still got some correct output. Will put more work into it.
+
+**Link(s) to work**
+1. [FreeCodeCamp](https://www.freecodecamp.org)
