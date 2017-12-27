@@ -833,3 +833,14 @@
 
 **Link(s) to work**
 1. [FreeCodeCamp](https://www.freecodecamp.org)
+
+
+### Day 84: December 26 2017, Tuesday
+
+**Today's Progress**: Attempted algorithms on freeCodeCamp, did some of ReactJS tutorial part 2 on Codecademy.
+
+**Thoughts** Intermediate algorithms are difficult. Tried my best, but didn't want to spend the whole day figuring those out. So I moved on to some more React. Although it's not coding I worked a bit on the design for my Twitch.tv project on freeCodecamp as well. So progress in different areas. Just didn;t want to end the day feeling like I didn't accomplish anything. At some point I do want to get back to the Udemy course for React. For now I'll be alternating between freeCodeCamp and React.
+
+**Link(s) to work**
+1. [FreeCodeCamp](https://www.freecodecamp.org)
+2. [Codecademy](https://www.codecademy.com/)
