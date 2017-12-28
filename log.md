@@ -844,3 +844,14 @@
 **Link(s) to work**
 1. [FreeCodeCamp](https://www.freecodecamp.org)
 2. [Codecademy](https://www.codecademy.com/)
+
+
+### Day 85: December 27 2017, Wednesday
+
+**Today's Progress**: Did some of ReactJS tutorial part 2 on Codecademy. Started another React tutorial on actual React website.
+
+**Thoughts** A lot of React going on today. Decided to switch over to the actual website because it was a change of pace from Codecademy, plus I'm actually building something I can interact with. That's always refreshing and reassuring, letting me know that I'm not just pressing buttons, I'm pulling from resources and my mind and creating real things.
+
+**Link(s) to work**
+1. [Codecademy](https://www.codecademy.com/)
+2. [ReactJS](https://reactjs.org/tutorial/tutorial.html)
