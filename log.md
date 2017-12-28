@@ -855,3 +855,15 @@
 **Link(s) to work**
 1. [Codecademy](https://www.codecademy.com/)
 2. [ReactJS](https://reactjs.org/tutorial/tutorial.html)
+
+
+### Day 86: December 28 2017, Thursday
+
+**Today's Progress**: Made my first GitHub contribution. Did more of React tutorial on actual React website. Tinkered with MaterializeCSS.
+
+**Thoughts** A lot of different progress today! Really liked switching it up and making a GitHub contribution. I was always nervous and clueless about doing so because I didn't want to break anything but the tutorial I followed was very welcoming and easy to follow. Also enjoyed more React and learning about Materialize because I want to improve my UI designs for projects moving forward.
+
+**Link(s) to work**
+1. [GitHub Contribution Tutorial](https://syknapse.github.io/Contribute-To-This-Project)
+2. [ReactJS](https://reactjs.org/tutorial/tutorial.html)
+3. [MaterializeCSS](http://materializecss.com/)
