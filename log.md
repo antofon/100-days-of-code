@@ -867,3 +867,14 @@
 1. [GitHub Contribution Tutorial](https://syknapse.github.io/Contribute-To-This-Project)
 2. [ReactJS](https://reactjs.org/tutorial/tutorial.html)
 3. [MaterializeCSS](http://materializecss.com/)
+
+
+### Day 87: December 29 2017, Friday
+
+**Today's Progress**: Completed React tutorial on actual React website. Played more with MaterializeCSS on CodePen.
+
+**Thoughts** Glad to have completed the React tutorial, it was more comprehensive than I thought. I'll have to go back several times to really understand what was going on. Also having fun with MaterializeCSS. Usually I work with Bootstrap so this will be an interesting switch.
+
+**Link(s) to work**
+1. [ReactJS](https://reactjs.org/tutorial/tutorial.html)
+2. [MaterializeCSS](http://materializecss.com/)
