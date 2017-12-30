@@ -878,3 +878,14 @@
 **Link(s) to work**
 1. [ReactJS](https://reactjs.org/tutorial/tutorial.html)
 2. [MaterializeCSS](http://materializecss.com/)
+
+
+### Day 88: December 30 2017, Saturday
+
+**Today's Progress**: Explored grid and repsonsive images with MaterializeCSS on CodePen. Worked more on Udemy React exercise.
+
+**Thoughts** MaterializeCSS is pretty cool, definitely helps to have worked with Bootstrap already. Also I do feel a bit more comfortable to tackle the React exercise, let's see how this goes.
+
+**Link(s) to work**
+1. [MaterializeCSS](http://materializecss.com/)
+2. [Udemy: React and Flux Web Development for Beginners](https://www.udemy.com/react-flux/learn/v4/overview)
