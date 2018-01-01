@@ -889,3 +889,12 @@
 **Link(s) to work**
 1. [MaterializeCSS](http://materializecss.com/)
 2. [Udemy: React and Flux Web Development for Beginners](https://www.udemy.com/react-flux/learn/v4/overview)
+
+
+### Day 89: December 31 2017, Sunday
+
+**Today's Progress**: Working on secret project, entails MaterializeCSS
+
+**Thoughts** Don't want to disclose anything until I complete this. Plan to complete it before 2018 :)
+
+**Link(s) to work**
