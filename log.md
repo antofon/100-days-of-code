@@ -893,8 +893,18 @@
 
 ### Day 89: December 31 2017, Sunday
 
-**Today's Progress**: Working on secret project, entails MaterializeCSS
+**Today's Progress**: Working on secret project, entails MaterializeCSS.
 
 **Thoughts** Don't want to disclose anything until I complete this. Plan to complete it before 2018 :)
 
 **Link(s) to work**
+
+
+### Day 90: January 1 2018, Monday
+
+**Today's Progress**: Began work on Twitch.tv API project for freeCodeCamp. Utilized Grid, colors, and typographical styling using MaterializeCSS.
+
+**Thoughts** Glad I finally decided to continue the Front End Developer Track with my last Intermediate project. So far so good with laying it out. I might just continue to do it without fully knowing my layout because Materialize will be able to handle what I am visualizing.
+
+**Link(s) to work**
+1. [Twitch.tv Viewer](https://github.com/antofon/twitch-viewer)
