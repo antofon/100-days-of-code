@@ -908,3 +908,13 @@
 
 **Link(s) to work**
 1. [Twitch.tv Viewer](https://github.com/antofon/twitch-viewer)
+
+
+### Day 91: January 2 2018, Tuesday
+
+**Today's Progress**: More work on Twitch.tv project, animating SVG, adding card tab to toggle between streamers in the 'All', 'Online', and 'Offline' categories.
+
+**Thoughts** Animating my SVG was pretty fun, a visually pleasing addition to this project. Also was glad to find the card tab component on Materialize, it's more of what I was going for. The previous button and card-panel implementations weren't doing it for me. Goal is to finish the HTML/CSS in the next 2 days. It'd be awesome if I can finish this project by the 100th day.
+
+**Link(s) to work**
+1. [Twitch.tv Viewer](https://github.com/antofon/twitch-viewer)
