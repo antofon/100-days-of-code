@@ -918,3 +918,13 @@
 
 **Link(s) to work**
 1. [Twitch.tv Viewer](https://github.com/antofon/twitch-viewer)
+
+
+### Day 92: January 3 2018, Wednesday
+
+**Today's Progress**: Responsive capability strengthened, content looks better on wide range of devices. Both elements of main content coexist much better. Added in dummy content to visualize actual streamers' statuses when implementing API. HTML/CSS are complete for the most part (except IDs/Classes and CSS touch ups during JS coding).
+
+**Thoughts** Finished much quicker than I expected. I want to redo the Twitch Bot, I have a nice drawing sketched out. But that will be after everything is complete. For now, I am very happy with how the project is turning out and am looking forward to utilizing the Twitch.tv JSONP API.
+
+**Link(s) to work**
+1. [Twitch.tv Viewer](https://github.com/antofon/twitch-viewer)
