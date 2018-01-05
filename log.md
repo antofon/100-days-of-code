@@ -928,3 +928,13 @@
 
 **Link(s) to work**
 1. [Twitch.tv Viewer](https://github.com/antofon/twitch-viewer)
+
+
+### Day 93: January 4 2018, Thursday
+
+**Today's Progress**: Worked on implementation of Twitch API. Able to complete request and print streamers content to the console. Working for 'All', 'Online', and 'Offline' streamers. Now attempting to display picture (as HTML) in each row. Currently at a bug.
+
+**Thoughts** API implementation went smoother than I expected. The freeCodeCamp suggestions with JSONP definitely allowed me to make significant progress today. Glad to explore some of the JS based docs and remind myself of for-in loops, super helpful with objects. Gonna keep pushing, aiming for that 100 Day mark completion.
+
+**Link(s) to work**
+1. [Twitch.tv Viewer](https://github.com/antofon/twitch-viewer)
