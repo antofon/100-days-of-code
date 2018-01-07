@@ -938,3 +938,23 @@
 
 **Link(s) to work**
 1. [Twitch.tv Viewer](https://github.com/antofon/twitch-viewer)
+
+
+### Day 94: January 5 2018, Friday
+
+**Today's Progress**: Attempted to inject HTML (from JS). Having difficulty getting the format to display correctly.
+
+**Thoughts** Really having trouble with this. I know I'll figure it out, there's just something I'm missing...
+
+**Link(s) to work**
+1. [Twitch.tv Viewer](https://github.com/antofon/twitch-viewer)
+
+
+### Day 95: January 6 2018, Saturday
+
+**Today's Progress**: Finished Twitch project. Meets all requirements. Revised Twitch Bot SVG to be cleaner. Modified media queries and altered Materialize CSS code (had bugs with tab and indicator classes).
+
+**Thoughts** Got it working! Glad to have completed another mini goal (Finish the Twitch project by 100th day). On to the Intermediate Algorithms and more projects. Going to start thinking about my project for an upcoming Hackathon.
+
+**Link(s) to work**
+1. [Twitch.tv Viewer](https://github.com/antofon/twitch-viewer)
