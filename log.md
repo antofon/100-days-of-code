@@ -958,3 +958,13 @@
 
 **Link(s) to work**
 1. [Twitch.tv Viewer](https://github.com/antofon/twitch-viewer)
+
+
+### Day 96: January 7 2018, Sunday
+
+**Today's Progress**: Completed the preview to Udacity's Front-End Web Developer Nanodegree program.
+
+**Thoughts** I appreciate Udacity's decision to provide a preview into these programs. Although I had a solid grasp of what was covered (HTML basics, writing faster code, etc.), I like the pacing and hands-on structure of the course. You really are coding yourself, and I can see that the projects could become challenging.
+
+**Link(s) to work**
+1. [Udacity Front-End Web Developer Nanodegree Preview](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)
