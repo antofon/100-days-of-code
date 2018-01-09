@@ -967,4 +967,14 @@
 **Thoughts** I appreciate Udacity's decision to provide a preview into these programs. Although I had a solid grasp of what was covered (HTML basics, writing faster code, etc.), I like the pacing and hands-on structure of the course. You really are coding yourself, and I can see that the projects could become challenging.
 
 **Link(s) to work**
-1. [Udacity Front-End Web Developer Nanodegree Preview](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)
+1. [Udacity Front-End Web Developer Nanodegree] Preview](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)
+
+
+### Day 97: January 8 2018, Monday
+
+**Today's Progress**: Completed several lessons for a React Native and Redux course on Udemy.
+
+**Thoughts** Although I'm just setting up the initial dev environment, I'm eager to build actual mobile apps. It's something that's always been super fascinating to me. Creating a project that is downloadable from the Play/App Store and allowing others to use and share it must be wonderful.
+
+**Link(s) to work**
+1. [Udemy: The Complete React Native and Redux Course](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview)
