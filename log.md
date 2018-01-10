@@ -978,3 +978,13 @@
 
 **Link(s) to work**
 1. [Udemy: The Complete React Native and Redux Course](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview)
+
+
+### Day 98: January 9 2018, Tuesday
+
+**Today's Progress**: Completed several more lessons for a React Native and Redux course on Udemy. Learned about Linter for JS validation and coded a bit of React Native.
+
+**Thoughts** Feels good to make more progress! My biggest motivator that will never go away is actually seeing things happens on the Android Studio Emulator. Even the Emulator is enough for me, I always feel a gratifying feeling when I am in the process of creating tangible bodies of work. More React Native/React tomorrow.
+
+**Link(s) to work**
+1. [Udemy: The Complete React Native and Redux Course](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview)
