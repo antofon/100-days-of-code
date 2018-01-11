@@ -988,3 +988,15 @@
 
 **Link(s) to work**
 1. [Udemy: The Complete React Native and Redux Course](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview)
+
+
+### Day 99: January 10 2018, Wednesday
+
+**Today's Progress**: Worked on CSS Lessons for Udacity's Front-End Web Developer track by being awarded the Grow with Google Challenge Scholarship. Continued with ReactNative/Redux course on Udemy.
+
+**Thoughts** So much joy and excitement from being accepted for the Scholarship! This will definitely be a part of my next round of 100DaysofCode. Awesome communities and resources to explore now. Also glad to make more React-focused progress.
+
+**Link(s) to work**
+1. [Udacity Front-End Web Developer Track: Grow with Google Challenge Scholarship](https://www.udacity.com/grow-with-google)
+
+2. [Udemy: The Complete React Native and Redux Course](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview)
