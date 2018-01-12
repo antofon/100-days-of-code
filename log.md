@@ -1000,3 +1000,13 @@
 1. [Udacity Front-End Web Developer Track: Grow with Google Challenge Scholarship](https://www.udacity.com/grow-with-google)
 
 2. [Udemy: The Complete React Native and Redux Course](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview)
+
+
+### Day 100: January 11 2018, Thursday
+
+**Today's Progress**: More CSS Lessons for Udacity's Front-End Web Developer track by being awarded the Grow with Google Challenge Scholarship. Completed problem sets.
+
+**Thoughts** It's really over...100DaysofCode complete! Thank you Alexander Kallaway, I'm so thankful to have discovered your article when I had no direction as a coder. Next up, Round 2!
+
+**Link(s) to work**
+1. [Udacity Front-End Web Developer Track: Grow with Google Challenge Scholarship](https://www.udacity.com/grow-with-google)
