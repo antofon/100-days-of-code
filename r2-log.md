@@ -11,3 +11,7 @@ Completed Lesson 10: JavaScript section for Udacity Front-End Web Dev course htt
 Completed Lesson 11: JavaScript section for Udacity Front-End Web Dev course. Completed two exercises from Ch2 of Eloquent JavaScript Book. Made more progress on React Native Udemy course. https://www.udacity.com/grow-with-google
 http://eloquentjavascript.net/02_program_structure.html
 https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview
+
+### R2D3: January 14 2018, Sunday
+Completed Lesson 12: JavaScript section for Udacity Front-End Web Dev course. Made more progress on React Native Udemy course. https://www.udacity.com/grow-with-google
+https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview
