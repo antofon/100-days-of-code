@@ -19,3 +19,8 @@ https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overvi
 ### R2D4: January 15 2018, Monday
 Almost completed Lesson 13 (two parts remaining): JavaScript section for Udacity Front-End Web Dev course. Made more progress on React Native Udemy course. https://www.udacity.com/grow-with-google
 https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview
+
+
+### R2D5: January 16 2018, Tuesday
+Completed Lesson 13 and halfway through Lesson 14 JavaScript section for Udacity Front-End Web Dev course. Made more progress on React Native Udemy course learning about reusable components https://www.udacity.com/grow-with-google
+https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview
