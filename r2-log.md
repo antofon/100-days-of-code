@@ -24,3 +24,9 @@ https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overvi
 ### R2D5: January 16 2018, Tuesday
 Completed Lesson 13 and halfway through Lesson 14 JavaScript section for Udacity Front-End Web Dev course. Made more progress on React Native Udemy course learning about reusable components https://www.udacity.com/grow-with-google
 https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview
+
+
+### R2D6: January 17 2018, Wednesday
+Completed Lesson 14 and halfway through Lesson 15 JavaScript section for Udacity Front-End Web Dev course. Worked a bit on CSS Grid Garden. Made more progress on React Native Udemy course learning about reusable components https://www.udacity.com/grow-with-google
+https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview
+http://cssgridgarden.com/
