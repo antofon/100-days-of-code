@@ -30,3 +30,9 @@ https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overvi
 Completed Lesson 14 and halfway through Lesson 15 JavaScript section for Udacity Front-End Web Dev course. Worked a bit on CSS Grid Garden. Made more progress on React Native Udemy course learning about reusable components https://www.udacity.com/grow-with-google
 https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview
 http://cssgridgarden.com/
+
+
+### R2D7: January 18 2018, Thursday
+Completed Lesson 15 and started lesson 16 of JavaScript section for Udacity Front-End Web Dev course. Learned about different array looping implementations (.map, .forEach) and intro to objects Worked a bit on CSS Grid Garden. Mhttps://www.udacity.com/grow-with-google
+https://www.udacity.com/grow-with-google
+http://cssgridgarden.com/
