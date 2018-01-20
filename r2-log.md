@@ -36,3 +36,9 @@ http://cssgridgarden.com/
 Completed Lesson 15 and started lesson 16 of JavaScript section for Udacity Front-End Web Dev course. Learned about different array looping implementations (.map, .forEach) and intro to objects Worked a bit on CSS Grid Garden. Mhttps://www.udacity.com/grow-with-google
 https://www.udacity.com/grow-with-google
 http://cssgridgarden.com/
+
+
+### R2D8: January 19 2018, Friday
+Completed most of Lesson 16 JavaScript section for Udacity Front-End Web Dev course. Completed more levels on CSS Grid Garden.
+https://www.udacity.com/grow-with-google
+http://cssgridgarden.com/
