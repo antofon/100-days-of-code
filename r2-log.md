@@ -42,3 +42,18 @@ http://cssgridgarden.com/
 Completed most of Lesson 16 JavaScript section for Udacity Front-End Web Dev course. Completed more levels on CSS Grid Garden.
 https://www.udacity.com/grow-with-google
 http://cssgridgarden.com/
+
+
+### R2D9: January 20 2018, Saturday
+Participated in HackDavis 2018. Working on Angular/Firebase web app.
+https://devpost.com/software/actionstate
+
+
+### R2D10: January 21 2018, Sunday
+Participated in HackDavis 2018. Completed rough version Angular/Firebase web app.
+https://devpost.com/software/actionstate
+
+
+### R2D11: January 22 2018, Monday
+Completed Lesson 16, 18, and most of 19 of JavaScript section for Udacity Front-End Web Dev course.
+https://www.udacity.com/grow-with-google
