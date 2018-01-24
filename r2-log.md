@@ -57,3 +57,9 @@ https://devpost.com/software/actionstate
 ### R2D11: January 22 2018, Monday
 Completed Lesson 16, 18, and most of 19 of JavaScript section for Udacity Front-End Web Dev course.
 https://www.udacity.com/grow-with-google
+
+
+### R2D12: January 23 2018, Tuesday
+Attempted to complete Lesson 19 of JavaScript section for Udacity Front-End Web Dev course. Began Udemy course on basics on JavaScript.
+https://www.udacity.com/grow-with-google
+https://www.udemy.com/javascript-crash-course/learn/v4/content
