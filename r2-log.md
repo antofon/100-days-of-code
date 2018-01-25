@@ -63,3 +63,9 @@ https://www.udacity.com/grow-with-google
 Attempted to complete Lesson 19 of JavaScript section for Udacity Front-End Web Dev course. Began Udemy course on basics on JavaScript.
 https://www.udacity.com/grow-with-google
 https://www.udemy.com/javascript-crash-course/learn/v4/content
+
+
+### R2D13: January 24 2018, Wednesday
+Completed Lesson 19 of and part of 20 for JavaScript section for Udacity Front-End Web Dev course. Continued Udemy course on basics on JavaScript.
+https://www.udacity.com/grow-with-google
+https://www.udemy.com/javascript-crash-course/learn/v4/content
