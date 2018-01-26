@@ -69,3 +69,9 @@ https://www.udemy.com/javascript-crash-course/learn/v4/content
 Completed Lesson 19 of and part of 20 for JavaScript section for Udacity Front-End Web Dev course. Continued Udemy course on basics on JavaScript.
 https://www.udacity.com/grow-with-google
 https://www.udemy.com/javascript-crash-course/learn/v4/content
+
+
+### R2D14: January 25 2018, Thursday
+Completed Lesson 20 for JavaScript section for Udacity Front-End Web Dev course. Continued Udemy course on basics on JavaScript.
+https://www.udacity.com/grow-with-google
+https://www.udemy.com/javascript-crash-course/learn/v4/content
