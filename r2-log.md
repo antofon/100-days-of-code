@@ -75,3 +75,15 @@ https://www.udemy.com/javascript-crash-course/learn/v4/content
 Completed Lesson 20 for JavaScript section for Udacity Front-End Web Dev course. Continued Udemy course on basics on JavaScript.
 https://www.udacity.com/grow-with-google
 https://www.udemy.com/javascript-crash-course/learn/v4/content
+
+
+### R2D15: January 26 2018, Friday
+Working on Pixel Art Maker, Lesson 21 for Udacity Front-End Web Dev course.
+https://www.udacity.com/grow-with-google
+
+
+### R2D16: January 27 2018, Saturday
+Working on Pixel Art Maker, Lesson 21 for Udacity Front-End Web Dev course. Continued Udemy course on basics on JavaScript and React
+https://www.udacity.com/grow-with-google
+https://www.udemy.com/javascript-crash-course/learn/v4/conten
+https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overviewt
