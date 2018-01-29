@@ -85,5 +85,13 @@ https://www.udacity.com/grow-with-google
 ### R2D16: January 27 2018, Saturday
 Working on Pixel Art Maker, Lesson 21 for Udacity Front-End Web Dev course. Continued Udemy course on basics on JavaScript and React
 https://www.udacity.com/grow-with-google
-https://www.udemy.com/javascript-crash-course/learn/v4/conten
-https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overviewt
+https://www.udemy.com/javascript-crash-course/learn/v4/content
+https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview
+
+
+### R2D17: January 28 2018, Sunday
+Updated portfolio website with new resume. Finished JS basics Udemy course, started a new JS Udemy course to build real-world app. Continued with React Udemy course.
+https://anwanantofon.me
+https://www.udemy.com/javascript-crash-course/learn/v4/content
+https://www.udemy.com/javascript-learn-javascript-essentials-and-build-project/learn/v4/content
+https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview
