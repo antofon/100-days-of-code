@@ -95,3 +95,9 @@ https://anwanantofon.me
 https://www.udemy.com/javascript-crash-course/learn/v4/content
 https://www.udemy.com/javascript-learn-javascript-essentials-and-build-project/learn/v4/content
 https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview
+
+
+### R2D18: January 29 2018, Monday
+  Worked a bit more on Udemy React course. Attempted progress with Pixel Art Viewer to correct canvas generation.
+https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview
+https://www.udacity.com/grow-with-google
