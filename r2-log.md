@@ -98,6 +98,6 @@ https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overvi
 
 
 ### R2D18: January 29 2018, Monday
-  Worked a bit more on Udemy React course. Attempted progress with Pixel Art Viewer to correct canvas generation.
+  Worked a bit more on Udemy React course. Properly display Canvas, clearing previous grid when user clicks 'Submit' button.
 https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview
 https://www.udacity.com/grow-with-google
