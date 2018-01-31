@@ -101,3 +101,8 @@ https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overvi
   Worked a bit more on Udemy React course. Properly display Canvas, clearing previous grid when user clicks 'Submit' button.
 https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview
 https://www.udacity.com/grow-with-google
+
+
+### R2D19: January 30 2018, Tuesday
+Completed Pixel Art Maker, the last task of the Front-End Web Developer Track for the Grow with Google Challenge (partnering with Udacity)
+https://www.udacity.com/grow-with-google
