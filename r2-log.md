@@ -111,3 +111,9 @@ https://www.udacity.com/grow-with-google
 ### R2D20: January 31 2018, Wednesday
 Worked a bit more on Udemy React course, re-did React ingredients app video
 https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview
+
+
+### R2D21: February 1 2018, Thursday
+Worked a bit more on Udemy React course, re-did React ingredients app video. Completed first few directions of "What The Flexbox?!" by Wes Bos
+https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview
+https://flexbox.io/
