@@ -114,6 +114,12 @@ https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overvi
 
 
 ### R2D21: February 1 2018, Thursday
-Worked a bit more on Udemy React course, re-did React ingredients app video. Completed first few directions of "What The Flexbox?!" by Wes Bos
+Worked a bit more on Udemy React course, re-did React ingredients app video. Completed first few lessons of "What The Flexbox?!" by Wes Bos
 https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview
 https://flexbox.io/
+
+
+### R2D22: February 2 2018, Friday
+Completed a more few lessons of "What The Flexbox?!" by Wes Bos and did some lessons of Flexbox Froggy.
+https://flexbox.io/
+http://flexboxfroggy.com/
