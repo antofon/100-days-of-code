@@ -86,7 +86,7 @@ https://www.udacity.com/grow-with-google
 Working on Pixel Art Maker, Lesson 21 for Udacity Front-End Web Dev course. Continued Udemy course on basics on JavaScript and React
 https://www.udacity.com/grow-with-google
 https://www.udemy.com/javascript-crash-course/learn/v4/content
-https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview
+https://www.udemy.com/react-flux/
 
 
 ### R2D17: January 28 2018, Sunday
@@ -94,12 +94,12 @@ Updated portfolio website with new resume. Finished JS basics Udemy course, star
 https://anwanantofon.me
 https://www.udemy.com/javascript-crash-course/learn/v4/content
 https://www.udemy.com/javascript-learn-javascript-essentials-and-build-project/learn/v4/content
-https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview
+https://www.udemy.com/react-flux/
 
 
 ### R2D18: January 29 2018, Monday
   Worked a bit more on Udemy React course. Properly display Canvas, clearing previous grid when user clicks 'Submit' button.
-https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview
+https://www.udemy.com/react-flux/
 https://www.udacity.com/grow-with-google
 
 
@@ -123,3 +123,16 @@ https://flexbox.io/
 Completed a more few lessons of "What The Flexbox?!" by Wes Bos and did some lessons of Flexbox Froggy.
 https://flexbox.io/
 http://flexboxfroggy.com/
+
+
+### R2D23: February 3 2018, Saturday
+Completed a more few lessons of "What The Flexbox?!" by Wes Bos and did some levels of Flexbox Froggy.
+https://flexbox.io/
+http://flexboxfroggy.com/
+
+
+### R2D24: February 4 2018, Sunday
+Completed a more few lessons of "What The Flexbox?!" by Wes Bos, some levels of Flexbox Defense, and React Flux Udemy course
+https://flexbox.io/
+https://www.udemy.com/react-flux/
+http://www.flexboxdefense.com/
