@@ -136,3 +136,10 @@ Completed a more few lessons of "What The Flexbox?!" by Wes Bos, some levels of 
 https://flexbox.io/
 https://www.udemy.com/react-flux/
 http://www.flexboxdefense.com/
+
+
+### R2D25: February 5 2018, Monday
+Explored Udemy React tutorial and React Routing. Got frustrated b/c the course ws outdated so attempted to learn React Routing on docs. Frustrated again b/c I didn't know ES6 syntax so now going through Udemy course of ES6
+https://www.udemy.com/react-flux/
+https://reacttraining.com/react-router/web/guides/philosophy
+https://www.udemy.com/essentials-in-javascript-es6
