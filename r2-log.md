@@ -143,3 +143,8 @@ Explored Udemy React tutorial and React Routing. Got frustrated b/c the course w
 https://www.udemy.com/react-flux/
 https://reacttraining.com/react-router/web/guides/philosophy
 https://www.udemy.com/essentials-in-javascript-es6
+
+
+### R2D26: February 6 2018, Tuesday
+Went through more of Udemy course of ES6. Learned about template literals, const vars, spread operator, and destructuring assignments with arrays/objects.
+https://www.udemy.com/essentials-in-javascript-es6
