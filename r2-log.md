@@ -148,3 +148,8 @@ https://www.udemy.com/essentials-in-javascript-es6
 ### R2D26: February 6 2018, Tuesday
 Went through more of Udemy course of ES6. Learned about template literals, const vars, spread operator, and destructuring assignments with arrays/objects.
 https://www.udemy.com/essentials-in-javascript-es6
+
+
+### R2D27: February 7 2018, Wednesday
+Went through more of Udemy course of ES6. Learned about arrow function, global 'this', and filtering.
+https://www.udemy.com/essentials-in-javascript-es6
