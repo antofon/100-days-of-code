@@ -153,3 +153,8 @@ https://www.udemy.com/essentials-in-javascript-es6
 ### R2D27: February 7 2018, Wednesday
 Went through more of Udemy course of ES6. Learned about arrow function, global 'this', and filtering.
 https://www.udemy.com/essentials-in-javascript-es6
+
+
+### R2D28: February 8 2018, Thursday
+Completed ES6 Udemy course. Learned about ES6 classes, inheritance, React w/ ES6, and more.
+https://www.udemy.com/essentials-in-javascript-es6
