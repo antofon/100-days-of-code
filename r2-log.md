@@ -158,3 +158,9 @@ https://www.udemy.com/essentials-in-javascript-es6
 ### R2D28: February 8 2018, Thursday
 Completed ES6 Udemy course. Learned about ES6 classes, inheritance, React w/ ES6, and more.
 https://www.udemy.com/essentials-in-javascript-es6
+
+
+
+### R2D29: February 9 2018, Friday
+Started React/Redux Udemy course. Beginning to make a React app countdown timer
+https://www.udemy.com/react-js-and-redux-mastering-web-apps/
