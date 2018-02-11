@@ -164,3 +164,8 @@ https://www.udemy.com/essentials-in-javascript-es6
 ### R2D29: February 9 2018, Friday
 Started React/Redux Udemy course. Beginning to make a React app countdown timer
 https://www.udemy.com/react-js-and-redux-mastering-web-apps/
+
+
+### R2D30: February 10 2018, Saturday
+Continued with React/Redux Udemy course. Completed Countdown Timer React app
+https://www.udemy.com/react-js-and-redux-mastering-web-apps/
