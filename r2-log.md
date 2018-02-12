@@ -169,3 +169,8 @@ https://www.udemy.com/react-js-and-redux-mastering-web-apps/
 ### R2D30: February 10 2018, Saturday
 Continued with React/Redux Udemy course. Completed Countdown Timer React app
 https://www.udemy.com/react-js-and-redux-mastering-web-apps/
+
+
+### R2D31: February 11 2018, Sunday
+Working on Stopwatch Component challenge exercise from React/Redux Udemy course. Stopwatch is counting up to 60 and looping back around. Also, seconds become NaN when user submits value
+https://www.udemy.com/react-js-and-redux-mastering-web-apps/
