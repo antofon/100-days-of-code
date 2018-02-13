@@ -174,3 +174,10 @@ https://www.udemy.com/react-js-and-redux-mastering-web-apps/
 ### R2D31: February 11 2018, Sunday
 Working on Stopwatch Component challenge exercise from React/Redux Udemy course. Stopwatch is counting up to 60 and looping back around. Also, seconds become NaN when user submits value
 https://www.udemy.com/react-js-and-redux-mastering-web-apps/
+
+
+### R2D32: February 12 2018, Monday
+Moved on from Stopwatch Component to Music Master project of React/Redux Udemy course. Uses the Spotify Web API. Able to follow the developer tutorial and print out the JSON for the artist.
+https://www.udemy.com/react-js-and-redux-mastering-web-apps/
+https://developer.spotify.com/web-api/authorization-guide/
+https://beta.developer.spotify.com/documentation/web-api/guides/
