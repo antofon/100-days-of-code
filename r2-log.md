@@ -181,3 +181,11 @@ Moved on from Stopwatch Component to Music Master project of React/Redux Udemy c
 https://www.udemy.com/react-js-and-redux-mastering-web-apps/
 https://developer.spotify.com/web-api/authorization-guide/
 https://beta.developer.spotify.com/documentation/web-api/guides/
+
+
+### R2D33: February 13 2018, Tuesday
+Completed Music Master project of React/Redux Udemy course. Uses the Spotify Web API. Can search for artists to populate their top 10 songs and pause/play tracks. Did some PHP lessons on Codecademy
+https://www.udemy.com/react-js-and-redux-mastering-web-apps/
+https://developer.spotify.com/web-api/authorization-guide/
+https://beta.developer.spotify.com/documentation/web-api/guides/
+https://www.codecademy.com/en/tracks/php
