@@ -189,3 +189,11 @@ https://www.udemy.com/react-js-and-redux-mastering-web-apps/
 https://developer.spotify.com/web-api/authorization-guide/
 https://beta.developer.spotify.com/documentation/web-api/guides/
 https://www.codecademy.com/en/tracks/php
+
+
+### R2D34: February 14 2018, Wednesday
+Start next project of React/Redux Udemy course. Learning about Redux, actions and action creators. Completed a couple of HackerRank warm up problems. Did HackerRank challenge for a company. Learned a bit of PHP on Codecademy. Listed to CodeNewbie podcast about technical interviewing.
+https://www.codenewbie.org/podcast/how-to-ace-a-technical-interview
+https://www.udemy.com/react-js-and-redux-mastering-web-apps/
+https://www.codecademy.com/en/tracks/php
+https://www.hackerrank.com/dashboard
