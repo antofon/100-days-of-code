@@ -197,3 +197,10 @@ https://www.codenewbie.org/podcast/how-to-ace-a-technical-interview
 https://www.udemy.com/react-js-and-redux-mastering-web-apps/
 https://www.codecademy.com/en/tracks/php
 https://www.hackerrank.com/dashboard
+
+
+### R2D35: February 15 2018, Thursday
+Learned a bit of PHP on Codecademy (arrays, loops, etc). Listed to more CodeNewbie podcast about technical interviewing.
+
+https://www.codecademy.com/en/tracks/php
+https://www.codenewbie.org/podcast/how-to-ace-a-technical-interview
