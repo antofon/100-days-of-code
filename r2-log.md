@@ -216,7 +216,16 @@ https://www.codecademy.com/en/tracks/php
 ### R2D37: February 17 2018, Saturday
 More progress with React and Redux Udemy course. Learning about actions, action creators, etc. Working on ToDo List App in React and Redux. Learned more on PHP Codecademy
 Listed to more CodeNewbie podcast about technical interviewing.
-
 https://www.udemy.com/react-js-and-redux-mastering-web-apps
 https://www.codecademy.com/en/tracks/php
 https://www.codenewbie.org/podcast/how-to-ace-a-technical-interview
+
+
+### R2D38: February 18 2018, Sunday
+Completed React Redux Reminder App for React and Redux Udemy course.
+https://www.udemy.com/react-js-and-redux-mastering-web-apps
+
+
+### R2D39: February 19 2018, Monday
+Played with Git trying to deploy React Redux app to GitHub Pages. 
+https://github.com/antofon
