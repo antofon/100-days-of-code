@@ -227,5 +227,9 @@ https://www.udemy.com/react-js-and-redux-mastering-web-apps
 
 
 ### R2D39: February 19 2018, Monday
-Played with Git trying to deploy React Redux app to GitHub Pages. 
+Played with Git trying to deploy React Redux app to GitHub Pages.
 https://github.com/antofon
+
+
+### R2D40: February 20 2018, Tuesday
+Created React App on my own and began new side project. Adding parent component, and potential children component.
