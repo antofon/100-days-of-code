@@ -233,3 +233,8 @@ https://github.com/antofon
 
 ### R2D40: February 20 2018, Tuesday
 Created React App on my own and began new side project. Adding parent component, and potential children component.
+
+
+### R2D41: February 21 2018, Wednesday
+Worked on PHP Codecademy functions. Started PHP Udemy course Installed PHP and WAMP server to work with PHP.
+https://www.codecademy.com/en/tracks/php
