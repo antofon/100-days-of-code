@@ -238,3 +238,9 @@ Created React App on my own and began new side project. Adding parent component,
 ### R2D41: February 21 2018, Wednesday
 Worked on PHP Codecademy functions. Started PHP Udemy course Installed PHP and WAMP server to work with PHP.
 https://www.codecademy.com/en/tracks/php
+
+
+### R2D42: February 22 2018, Thursday
+Completed PHP Udemy course (variables, functions, etc.). Completed a few HackerRank warmup problems.
+https://www.udemy.com/basic-php/learn/v4/content
+https://www.hackerrank.com/dashboard
