@@ -244,3 +244,7 @@ https://www.codecademy.com/en/tracks/php
 Completed PHP Udemy course (variables, functions, etc.). Completed a few HackerRank warmup problems.
 https://www.udemy.com/basic-php/learn/v4/content
 https://www.hackerrank.com/dashboard
+
+### R2D43: February 23 2018, Friday
+Completed a couple more HackerRank warmup problems. Learned about React Router and a new API
+https://www.hackerrank.com/dashboard
