@@ -7,14 +7,17 @@ The log of my #100DaysOfCode challenge. Started on [January 12, 2018].
 ### R2D1: January 12 2018, Friday
 Completed Lesson 10: JavaScript section for Udacity Front-End Web Dev course https://www.udacity.com/grow-with-google
 
+
 ### R2D2: January 13 2018, Saturday
 Completed Lesson 11: JavaScript section for Udacity Front-End Web Dev course. Completed two exercises from Ch2 of Eloquent JavaScript Book. Made more progress on React Native Udemy course. https://www.udacity.com/grow-with-google
 http://eloquentjavascript.net/02_program_structure.html
 https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview
 
+
 ### R2D3: January 14 2018, Sunday
 Completed Lesson 12: JavaScript section for Udacity Front-End Web Dev course. Made more progress on React Native Udemy course. https://www.udacity.com/grow-with-google
 https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview
+
 
 ### R2D4: January 15 2018, Monday
 Almost completed Lesson 13 (two parts remaining): JavaScript section for Udacity Front-End Web Dev course. Made more progress on React Native Udemy course. https://www.udacity.com/grow-with-google
@@ -98,7 +101,7 @@ https://www.udemy.com/react-flux/
 
 
 ### R2D18: January 29 2018, Monday
-  Worked a bit more on Udemy React course. Properly display Canvas, clearing previous grid when user clicks 'Submit' button.
+Worked a bit more on Udemy React course. Properly display Canvas, clearing previous grid when user clicks 'Submit' button.
 https://www.udemy.com/react-flux/
 https://www.udacity.com/grow-with-google
 
@@ -206,11 +209,9 @@ https://www.codecademy.com/en/tracks/php
 https://www.codenewbie.org/podcast/how-to-ace-a-technical-interview
 
 
-
 ### R2D36: February 16 2018, Friday
 Learned more PHP on Codecademy.
 https://www.codecademy.com/en/tracks/php
-
 
 
 ### R2D37: February 17 2018, Saturday
@@ -245,6 +246,60 @@ Completed PHP Udemy course (variables, functions, etc.). Completed a few HackerR
 https://www.udemy.com/basic-php/learn/v4/content
 https://www.hackerrank.com/dashboard
 
+
 ### R2D43: February 23 2018, Friday
-Completed a couple more HackerRank warmup problems. Learned about React Router and a new API
+Completed a couple more HackerRank warmup problems. Worked on new React app with an API and read up on React Router.
 https://www.hackerrank.com/dashboard
+
+
+### R2D44: February 24 2018, Saturday
+Completed a couple more HackerRank problem and read several pages from Cracking the Coding Interview.
+https://www.hackerrank.com/dashboard
+
+
+### R2D45: February 25 2018, Sunday
+Learned about Big O and worked through technical questions on whiteboard. Start React web app with Firebase Integration
+https://www.hackerrank.com/dashboard
+https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial/
+
+
+### R2D46: February 26 2018, Monday
+Big O examples, re-learned recursion and coded its for-loop equivalent in C++. Also made more progress with React + Firebase web app tutorial
+https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial/
+
+
+### R2D47: February 27 2018, Tuesday
+More React + Firebase tutorial, learning about authentication (Firebase)
+https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial/
+
+
+### R2D48: February 28 2018, Wednesday
+Implemented React form validation, also learned more about React Router and its Routes
+https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial/
+
+
+### R2D49: March 1 2018, Thursday
+Created lightweight examples of JavaScript functions for a study buddy
+
+
+### R2D50: March 2 2018, Friday
+Implemented sign-in and sign-out feature for React + Firebase tutorial. Learned about higher-order components as well
+https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial/
+
+
+### R2D51: March 3 2018, Saturday
+Corrected errors I made from the tutorial. Re-learning C++ as well with HackerRank.
+https://www.hackerrank.com/dashboard
+https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial/
+
+
+### R2D52: March 6 2018, Tuesday
+Studies more C++ and coded up different algorithms and data structures (binary search, ArrayLists, etc.) More progress also made with React + Firebase tutorial
+https://www.hackerrank.com/dashboard
+https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial/
+
+
+### R2D53: March 7 2018, Wednesday
+Figured out how to compile C++ on VS Code. Dived into C++ lessons on SoloLearn, learning about the basics (operator precedence, vars, etc.)
+https://code.visualstudio.com/
+https://www.sololearn.com/
