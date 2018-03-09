@@ -303,3 +303,9 @@ https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial/
 Figured out how to compile C++ on VS Code. Dived into C++ lessons on SoloLearn, learning about the basics (operator precedence, vars, etc.)
 https://code.visualstudio.com/
 https://www.sololearn.com/
+
+
+### R2D54: March 8 2018, Thursday
+More C++ lessons on SoloLearn, learning about conditionals, loops, and data types. Also started a C++ Udemy tutorial learning the basics like variables and conditionals as well.
+https://www.sololearn.com/
+https://www.udemy.com/free-learn-c-tutorial-beginners/?start=0
