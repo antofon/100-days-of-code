@@ -309,3 +309,8 @@ https://www.sololearn.com/
 More C++ lessons on SoloLearn, learning about conditionals, loops, and data types. Also started a C++ Udemy tutorial learning the basics like variables and conditionals as well.
 https://www.sololearn.com/
 https://www.udemy.com/free-learn-c-tutorial-beginners/?start=0
+
+
+### R2D55: March 10 2018, Saturday
+Complete Module 3 C++ lessons on SoloLearn, learning about data types, arrays, and pointers. Completed old program assignment (initially in C) in C++.
+https://www.sololearn.com/
