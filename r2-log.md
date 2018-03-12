@@ -314,3 +314,9 @@ https://www.udemy.com/free-learn-c-tutorial-beginners/?start=0
 ### R2D55: March 10 2018, Saturday
 Complete Module 3 C++ lessons on SoloLearn, learning about data types, arrays, and pointers. Completed old program assignment (initially in C) in C++.
 https://www.sololearn.com/
+
+
+### R2D56: March 11 2018, Sunday
+Complete Module 4 C++ lessons on SoloLearn, learning about functions and recursion. Wrapped up React Firebase tutorial of the acceptable implementation (Sign In, Sign Out, Sign Up). Started on the sections for additional features (i.e. Password Reset)
+https://www.sololearn.com/
+https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial/
