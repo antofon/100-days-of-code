@@ -320,3 +320,8 @@ https://www.sololearn.com/
 Complete Module 4 C++ lessons on SoloLearn, learning about functions and recursion. Wrapped up React Firebase tutorial of the acceptable implementation (Sign In, Sign Out, Sign Up). Started on the sections for additional features (i.e. Password Reset)
 https://www.sololearn.com/
 https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial/
+
+
+### R2D57: March 12 2018, Monday
+Complete Module 5 C++ lessons on SoloLearn, learning about classes and objects (Object Oriented Programming, or OOP).
+https://www.sololearn.com/
