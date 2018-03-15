@@ -325,3 +325,9 @@ https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial/
 ### R2D57: March 12 2018, Monday
 Complete Module 5 C++ lessons on SoloLearn, learning about classes and objects (Object Oriented Programming, or OOP).
 https://www.sololearn.com/
+
+
+### R2D58: March 14 2018, Wednesday
+Complete some Module 6 C++ lessons on SoloLearn, learning about destructors, const in OOP, and more concepts. Recreated own classes/objects in SoloLearn text editor.
+https://www.sololearn.com/
+https://code.sololearn.com/256/#cpp
