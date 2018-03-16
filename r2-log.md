@@ -331,3 +331,9 @@ https://www.sololearn.com/
 Complete some Module 6 C++ lessons on SoloLearn, learning about destructors, const in OOP, and more concepts. Recreated own classes/objects in SoloLearn text editor.
 https://www.sololearn.com/
 https://code.sololearn.com/256/#cpp
+
+
+### R2D59: March 15 2018, Thursday
+Complete Module 6 C++ lessons on SoloLearn, learning 'this', operator overloading, and more concepts. Solved one HackerRank challenge.
+https://www.sololearn.com/
+https://www.hackerrank.com/dashboard
