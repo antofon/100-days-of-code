@@ -337,3 +337,7 @@ https://code.sololearn.com/256/#cpp
 Complete Module 6 C++ lessons on SoloLearn, learning 'this', operator overloading, and more concepts. Solved one HackerRank challenge.
 https://www.sololearn.com/
 https://www.hackerrank.com/dashboard
+
+
+### R2D60: March 20 2018, Monday
+Began React Web App side project. Getting all Components in place, began working on Landing page with it's Sign Up and Log In authentication.
