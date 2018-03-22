@@ -339,5 +339,9 @@ https://www.sololearn.com/
 https://www.hackerrank.com/dashboard
 
 
-### R2D60: March 20 2018, Monday
+### R2D60: March 20 2018, Tuesday
 Began React Web App side project. Getting all Components in place, began working on Landing page with it's Sign Up and Log In authentication.
+
+
+### R2D61: March 21 2018, Wednesday
+Worked on Landing Page Sign up and Log in tabs. Incorporated React Bootstrap for more eloquent styling. Tweaked Authentication component to be more modular.
