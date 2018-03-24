@@ -345,3 +345,7 @@ Began React Web App side project. Getting all Components in place, began working
 
 ### R2D61: March 21 2018, Wednesday
 Worked on Landing Page Sign up and Log in tabs. Incorporated React Bootstrap for more eloquent styling. Tweaked Authentication component to be more modular.
+
+
+### R2D62: March 22 2018, Friday
+Set up Authentication Sign Up/Log in look, worked a connecting Firebase to allow users to Sign in with their Google Account.
