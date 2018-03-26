@@ -350,6 +350,12 @@ Worked on Landing Page Sign up and Log in tabs. Incorporated React Bootstrap for
 ### R2D62: March 23 2018, Friday
 Set up Authentication Sign Up/Log in look, worked a connecting Firebase to allow users to Sign in with their Google Account.
 
+
 ### R2D63: March 24 2018, Saturday
 Worked on JavaScript and Basic and Intermediate algorithms on freeCodeCamp. Refreshing memory on how JS works and also how to solve problems.
+https://www.freecodecamp.org/
+
+
+### R2D64: March 25 2018, Sunday
+Worked on JavaScript and Basic and Intermediate algorithms on freeCodeCamp. More on refreshing memory on how JS works and also how to solve problems. Also went through Data Structures in C++ (Stacks, Queues, Linked List)
 https://www.freecodecamp.org/
