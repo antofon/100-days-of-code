@@ -359,3 +359,13 @@ https://www.freecodecamp.org/
 ### R2D64: March 25 2018, Sunday
 Worked on JavaScript and Basic and Intermediate algorithms on freeCodeCamp. More on refreshing memory on how JS works and also how to solve problems. Also went through Data Structures in C++ (Stacks, Queues, Linked List)
 https://www.freecodecamp.org/
+
+
+### R2D65: March 26 2018, Monday
+Worked on more JavaScript on freeCodeCamp. Also worked on side project with group members from Grow With Google Scholarship.
+https://www.freecodecamp.org/
+
+
+### R2D66: March 27 2018, Tuesday
+Went through more JavaScript on freeCodeCamp and learned more about Data Structures.
+https://www.freecodecamp.org/
