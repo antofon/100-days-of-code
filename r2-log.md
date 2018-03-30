@@ -369,3 +369,8 @@ https://www.freecodecamp.org/
 ### R2D66: March 27 2018, Tuesday
 Went through more JavaScript on freeCodeCamp and learned more about Data Structures.
 https://www.freecodecamp.org/
+
+
+### R2D67: March 29 2018, Thursday
+Re-solved a couple of the Basic Algorithms on freeCodeCamp
+https://www.freecodecamp.org/
