@@ -374,3 +374,8 @@ https://www.freecodecamp.org/
 ### R2D67: March 29 2018, Thursday
 Re-solved a couple of the Basic Algorithms on freeCodeCamp
 https://www.freecodecamp.org/
+
+
+### R2D68: March 30 2018, Friday
+Re-solved a couple more of the Basic Algorithms on freeCodeCamp
+https://www.freecodecamp.org/
