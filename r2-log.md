@@ -377,5 +377,11 @@ https://www.freecodecamp.org/
 
 
 ### R2D68: March 30 2018, Friday
-Re-solved a couple more of the Basic Algorithms on freeCodeCamp
+Re-solved a couple of the Basic Algorithms on freeCodeCamp
 https://www.freecodecamp.org/
+
+
+### R2D69: March 31 2018, Saturday
+Went through all of the Basic Algorithms and solved a new Intermediate Algorithm on freeCodeCamp. Completed SoloLearn JavaScript module and obtained certificate.
+https://www.freecodecamp.org/
+https://www.sololearn.com/
