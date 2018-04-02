@@ -385,3 +385,8 @@ https://www.freecodecamp.org/
 Went through all of the Basic Algorithms and solved a new Intermediate Algorithm on freeCodeCamp. Completed SoloLearn JavaScript module and obtained certificate.
 https://www.freecodecamp.org/
 https://www.sololearn.com/
+
+
+### R2D70: April 1 2018, Sunday
+Solved three more Intermediate Algorithms on freeCodeCamp.
+https://www.freecodecamp.org/
