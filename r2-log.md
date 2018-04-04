@@ -390,3 +390,11 @@ https://www.sololearn.com/
 ### R2D70: April 1 2018, Sunday
 Solved three more Intermediate Algorithms on freeCodeCamp.
 https://www.freecodecamp.org/
+
+
+### R2D71: April 2 2018, Monday
+Completed 60-min coding assessment.
+
+
+### R2D72: April 3 2018, Tuesday
+Worked on React App side project. Setting up Firebase environment and the interface to interact with operations such as sign-in/up/out.
