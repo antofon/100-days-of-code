@@ -398,3 +398,7 @@ Completed 60-min coding assessment.
 
 ### R2D72: April 3 2018, Tuesday
 Worked on React App side project. Setting up Firebase environment and the interface to interact with operations such as sign-in/up/out.
+
+
+### R2D73: April 4 2018, Wednesday
+Worked on React App side project. More of setting up Firebase environment, creating the authentication Firebase methods. Also reorganized information in Sign-Up and other components to abstracting UI a bit more.
