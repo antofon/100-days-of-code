@@ -402,3 +402,7 @@ Worked on React App side project. Setting up Firebase environment and the interf
 
 ### R2D73: April 4 2018, Wednesday
 Worked on React App side project. More of setting up Firebase environment, creating the authentication Firebase methods. Also reorganized information in Sign-Up and other components to abstracting UI a bit more.
+
+
+### R2D74: April 5 2018, Thursday
+Got "Sign up" and "Log in" to toggle correctly with React Router Bootstrap. Also worked more on authentication, validation of input fields, and the creation of a user. Now need to figure out how to redirect an authenticated user to the home screen. Also remember to do validation on log in nav.
