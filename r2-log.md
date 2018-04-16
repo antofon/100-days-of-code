@@ -411,3 +411,8 @@ Got "Sign up" and "Log in" to toggle correctly with React Router Bootstrap. Also
 ### R2D75: April 13 2018, Friday
 Completed C++ SoloLearn course.
 https://www.sololearn.com/
+
+
+### R2D76: April 15 2018, Sunday
+Solved several HackerRank challenges ranging from C++ categories and Data Structures
+https://www.hackerrank.com/dashboard
