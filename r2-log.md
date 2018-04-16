@@ -406,3 +406,8 @@ Worked on React App side project. More of setting up Firebase environment, creat
 
 ### R2D74: April 5 2018, Thursday
 Got "Sign up" and "Log in" to toggle correctly with React Router Bootstrap. Also worked more on authentication, validation of input fields, and the creation of a user. Now need to figure out how to redirect an authenticated user to the home screen. Also remember to do validation on log in nav.
+
+
+### R2D75: April 13 2018, Friday
+Completed C++ SoloLearn course.
+https://www.sololearn.com/
