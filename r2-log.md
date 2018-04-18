@@ -420,3 +420,7 @@ https://www.hackerrank.com/dashboard
 
 ### R2D77: April 16 2018, Monday
 Took time to understand code from job's website to start redesigning. Worked on wireframes as well.
+
+
+### R2D78: April 17 2018, Tuesday
+Worked more on job website redesign with home page. Worked on Web app, specifically 'Sign up' and 'Log in' authentication. Works, just need to route to correct pages.
