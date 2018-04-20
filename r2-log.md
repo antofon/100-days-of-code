@@ -424,3 +424,7 @@ Took time to understand code from job's website to start redesigning. Worked on 
 
 ### R2D78: April 17 2018, Tuesday
 Worked more on job website redesign with home page. Worked on Web app, specifically 'Sign up' and 'Log in' authentication. Works, just need to route to correct pages.
+
+
+### R2D79: April 19 2018, Thursday
+Worked on Web app, specifically 'Sign up' and 'Log in' authentication. Having trouble with the redirection to homepage after successful signup/login
