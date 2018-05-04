@@ -428,3 +428,27 @@ Worked more on job website redesign with home page. Worked on Web app, specifica
 
 ### R2D79: April 19 2018, Thursday
 Worked on Web app, specifically 'Sign up' and 'Log in' authentication. Having trouble with the redirection to homepage after successful signup/login
+
+
+### R2D80: April 20 2018, Friday
+Worked on website redesign, random image gallery on the homepage.
+
+
+### R2D81: April 23 2018, Monday
+Started Lessons for Udacity Google Front-End Nanodegree program
+
+
+### R2D82: April 24 2018, Tuesday
+Completed Lesson 10 for the FEND program, researched React Router for web app.
+
+
+### R2D83: April 25 2018, Wednesday
+Completed Lessons 11 and 12 for FEND program.
+
+
+### R2D84: May 3 2018, Thursday
+Completed Lessons 12-16 for FEND program, started coding HTML for Portfolio project
+
+
+### R2D85: May 4 2018, Friday
+Finished coding HTML for Portfolio project, styling now with CSS (flexbox, colors, etc.)
