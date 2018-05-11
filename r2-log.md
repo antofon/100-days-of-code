@@ -453,5 +453,10 @@ Completed Lessons 12-16 for FEND program, started coding HTML for Portfolio proj
 ### R2D85: May 4 2018, Friday
 Finished coding HTML for Portfolio project, styling now with CSS (flexbox, colors, etc.)
 
+
 ### R2D86: May 9 2018, Wednesday
 Finished my Portfolio (Project 1) for Udacity FEND program. Started going through Part 2 of the program with JavaScript Lesson 8.
+
+
+### R2D87: May 10 2018, Thursday
+Completed JavaScript Lessons 8 - 10 for Udacity's FEND program.
