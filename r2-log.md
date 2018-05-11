@@ -460,3 +460,7 @@ Finished my Portfolio (Project 1) for Udacity FEND program. Started going throug
 
 ### R2D87: May 10 2018, Thursday
 Completed JavaScript Lessons 8 - 10 for Udacity's FEND program.
+
+
+### R2D88: May 11 2018, Friday
+Completed Lessons 13 - 15 (Part 2) for Udacity's FEND program. Learned a great deal about Git and Version Control
