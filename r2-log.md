@@ -464,3 +464,7 @@ Completed JavaScript Lessons 8 - 10 for Udacity's FEND program.
 
 ### R2D88: May 11 2018, Friday
 Completed Lessons 13 - 15 (Part 2) for Udacity's FEND program. Learned a great deal about Git and Version Control
+
+
+### R2D89-91: May 12 - May 14 2018, Saturday - Monday
+Completed Lessons 15 - 20 (Part 2) for Udacity's FEND program. Completed Git tutorials, moved on to the DOM and JavaScript/jQuery.
