@@ -468,3 +468,7 @@ Completed Lessons 13 - 15 (Part 2) for Udacity's FEND program. Learned a great d
 
 ### R2D89-91: May 12 - May 14 2018, Saturday - Monday
 Completed Lessons 15 - 20 (Part 2) for Udacity's FEND program. Completed Git tutorials, moved on to the DOM and JavaScript/jQuery.
+
+
+### R2D92-95: May 20 - May 23 2018, Sunday - Wednesday
+Worked on Part 3 of Udacity's FEND program (Lessons 1 & 2). Worked a great deal on Memory Game for Part 2. Figuring out game logic, coded basic HTML strucutre, no styling just yet.
