@@ -474,5 +474,5 @@ Completed Lessons 15 - 20 (Part 2) for Udacity's FEND program. Completed Git tut
 Worked on Part 3 of Udacity's FEND program (Lessons 1 & 2). Worked a great deal on Memory Game for Part 2. Figuring out game logic, coded basic HTML strucutre, no styling just yet.
 
 
-### R2D96: May 24 2018, Thursday
-Completed Lessons 3 & 4 for Part 3 of Udacity's FEND program.
+### R2D96-97: May 25-26 2018, Friday - Saturday
+Completed Lessons 3 - 6 for Part 3 of Udacity's FEND program. Cards shuffle successfully for Memory Game
