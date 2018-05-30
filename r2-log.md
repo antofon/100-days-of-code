@@ -476,3 +476,7 @@ Worked on Part 3 of Udacity's FEND program (Lessons 1 & 2). Worked a great deal 
 
 ### R2D96-97: May 25-26 2018, Friday - Saturday
 Completed Lessons 3 - 6 for Part 3 of Udacity's FEND program. Cards shuffle successfully for Memory Game
+
+
+### R2D98-100: May 27-29 2018, Sunday - Tuesday
+Working on Memory Game logic. Worked on shuffling of cards, moves, star, and timer fields, the restart button (and corresponding logic) and more.
