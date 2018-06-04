@@ -10,3 +10,7 @@ Coded markup of website to host company-inspired projects https://antofon.github
 
 ### R3D2: June 2, 2018 Saturday
 Went through JS Objects and Functions for Part 3 of #udacity FEND. Also started coding up a website to host more projects.
+
+
+### R3D3: June 3, 2018 Sunday
+More on Objects and Functions, specifically higher-order functions and concepts like closure. Interesting stuff, hopefully I can implement them in my upcoming projects! I've been brainstorming a lot lately
