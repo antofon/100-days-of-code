@@ -22,3 +22,7 @@ Learned about Build Tools like Grunt and Gulp and more on Functions/Objects
 
 ### R3D5: June 5, 2018 Tuesday
 Practiced scope and Closure with Codepen examples.
+
+
+### R3D6: June 7, 2018 Thursday
+Learned about Arrow Functions, deep dive into Classes and Object with prototype and other concepts
