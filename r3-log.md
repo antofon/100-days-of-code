@@ -30,3 +30,7 @@ Learned about Arrow Functions, deep dive into Classes and Object with prototype 
 
 ### R3D7: June 8, 2018 Friday
 Keeping my HTML/CSS skills sharp by coding mockup templates! Also completed a couple more #udacity FEND lessons today on a bunch of ES6 concepts
+
+
+### R3D8: June 10, 2018 Sunday
+Back at it again with the Memory Game FEND #udacity project. Figured out how to display the congratulations popup...kinda.
