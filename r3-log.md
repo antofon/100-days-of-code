@@ -26,3 +26,7 @@ Practiced scope and Closure with Codepen examples.
 
 ### R3D6: June 7, 2018 Thursday
 Learned about Arrow Functions, deep dive into Classes and Object with prototype and other concepts
+
+
+### R3D7: June 8, 2018 Friday
+Keeping my HTML/CSS skills sharp by coding mockup templates! Also completed a couple more #udacity FEND lessons today on a bunch of ES6 concepts
