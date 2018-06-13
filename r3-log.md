@@ -34,3 +34,7 @@ Keeping my HTML/CSS skills sharp by coding mockup templates! Also completed a co
 
 ### R3D8: June 10, 2018 Sunday
 Back at it again with the Memory Game FEND #udacity project. Figured out how to display the congratulations popup...kinda.
+
+
+### R3D9: June 12, 2018 Tuesday
+Completed HTML and CSS SoloLearn courses. Created Pens on CodePen of different HTML, CSS, and JS concepts.
