@@ -38,3 +38,7 @@ Back at it again with the Memory Game FEND #udacity project. Figured out how to 
 
 ### R3D9: June 12, 2018 Tuesday
 Completed HTML and CSS SoloLearn courses. Created Pens on CodePen of different HTML, CSS, and JS concepts.
+
+
+### R3D10: June 13, 2018 Wednesday
+Completed Lessons 16 - 18 of Part 3 Udacity FEND
