@@ -42,3 +42,7 @@ Completed HTML and CSS SoloLearn courses. Created Pens on CodePen of different H
 
 ### R3D10: June 13, 2018 Wednesday
 Completed Lessons 16 - 18 of Part 3 Udacity FEND
+
+
+### R3D11: June 21, 2018 Thursday
+Working on Part 5 Lessons of Udacity FEND. Learning about React basics, lifecycle, state management, and more!
