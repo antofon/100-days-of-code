@@ -13,11 +13,11 @@ Went through JS Objects and Functions for Part 3 of #udacity FEND. Also started 
 
 
 ### R3D3: June 3, 2018 Sunday
-More on Objects and Functions, specifically higher-order functions and concepts like closures Interesting stuff, hopefully I can implement them in my upcoming projects! I've been brainstorming a lot lately
+More on Objects and Functions, specifically higher-order functions and concepts like closures Interesting stuff, hopefully I can implement them in my upcoming projects! I've been brainstorming a lot lately.
 
 
 ### R3D4: June 4, 2018 Monday
-Learned about Build Tools like Grunt and Gulp and more on Functions/Objects
+Learned about Build Tools like Grunt and Gulp and more on Functions/Objects.
 
 
 ### R3D5: June 5, 2018 Tuesday
@@ -25,11 +25,11 @@ Practiced scope and Closure with Codepen examples.
 
 
 ### R3D6: June 7, 2018 Thursday
-Learned about Arrow Functions, deep dive into Classes and Object with prototype and other concepts
+Learned about Arrow Functions, deep dive into Classes and Object with prototype and other concepts.
 
 
 ### R3D7: June 8, 2018 Friday
-Keeping my HTML/CSS skills sharp by coding mockup templates! Also completed a couple more #udacity FEND lessons today on a bunch of ES6 concepts
+Keeping my HTML/CSS skills sharp by coding mockup templates! Also completed a couple more #udacity FEND lessons today on a bunch of ES6 concepts.
 
 
 ### R3D8: June 10, 2018 Sunday
@@ -45,12 +45,12 @@ Completed Lessons 16 - 18 of Part 3 Udacity FEND
 
 
 ### R3D11: June 21, 2018 Thursday
-Working on Part 5 Lessons of Udacity FEND. Learning about React basics, lifecycle, state management, and more!
+Working on Part 5 Lessons of Udacity FEND. Learning about React basics, lifecycle, state management, and more! Also a side note: I got hired as a Junior Front-End Web Developer!
 
 
 ### R3D12: June 22, 2018 Friday
-React Router tutorials and thorough reading of "You Don't Know JS: ES6 & Beyond
+React Router tutorials and thorough reading of "You Don't Know JS: ES6 & Beyond.
 
 
 ### R3D13: June 27, 2018 Wednesday
-Moved on from React Router to Google Map APIs for my #udacity FEND
+Moved on from React Router to Google Map APIs for my #udacity FEND.
