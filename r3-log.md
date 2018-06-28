@@ -46,3 +46,7 @@ Completed Lessons 16 - 18 of Part 3 Udacity FEND
 
 ### R3D11: June 21, 2018 Thursday
 Working on Part 5 Lessons of Udacity FEND. Learning about React basics, lifecycle, state management, and more!
+
+
+### R3D12: June 22, 2018 Friday
+React Router tutorials and thorough reading of "You Don't Know JS: ES6 & Beyond
