@@ -50,3 +50,7 @@ Working on Part 5 Lessons of Udacity FEND. Learning about React basics, lifecycl
 
 ### R3D12: June 22, 2018 Friday
 React Router tutorials and thorough reading of "You Don't Know JS: ES6 & Beyond
+
+
+### R3D13: June 27, 2018 Wednesday
+Moved on from React Router to Google Map APIs for my #udacity FEND
