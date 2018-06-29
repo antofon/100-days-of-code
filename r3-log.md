@@ -57,4 +57,5 @@ Moved on from React Router to Google Map APIs for my #udacity FEND.
 
 
 ### R3D14: June 28, 2018 Thursday
-Moved on from React Router to Google Map APIs for my #udacity FEND.
+Completed Basic HTML and CSS sections on freeCodeCamp. Also started Visual Design section
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design
