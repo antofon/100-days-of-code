@@ -59,3 +59,8 @@ Moved on from React Router to Google Map APIs for my #udacity FEND.
 ### R3D14: June 28, 2018 Thursday
 Completed Basic HTML and CSS sections on freeCodeCamp. Also started Visual Design section
 https://learn.freecodecamp.org/responsive-web-design/applied-visual-design
+
+
+### R3D15: July 1, 2018 Sunday
+Completed more than half of the Visual Design section. Covered positioning, color theory, and more
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design
